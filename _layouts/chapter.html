@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>{{ page.title }}</title>
+	{%- include head.html -%}
+
+<body class="chapter">
+
+{%- include nav.html -%}
+
+	<div class="pure-pusher-container">
+		<div class="pure-pusher flex-grid">
+			<div class="flex-item flex-item-1" style="flex-direction:column;">
+				<img src="{{ "/images/bird-cage.png" | prepend: site.baseurl }}" alt="Bird cage">
+				<h1 class="normal">Wednesday the Raven</h1>
+				<h2 class="normal author"><em>by</em> Colin Lewis</h2>
+				{%- include preorder-buy-button.html -%}
+			</div>
+
+			<div class="flex-item flex-item-2">
+				<article>
+					{% if page.chapterTitle %}<h3>{{ page.chapterTitle }}</h3>{% endif %}
+					<span class="hedera">&#10087;</span>
+					{% if page.chapterSubtitle %}<h4><em>{{ page.chapterSubtitle }}</em></h4>{% endif %}
+
+					{{ content }}
+
+					{%- include footer.html -%}
+
+</body>
+</html>
