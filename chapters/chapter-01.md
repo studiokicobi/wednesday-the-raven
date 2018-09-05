@@ -151,4 +151,3 @@ He squinted.
 “But—” began Ella.
 
 “I’m hungry,” interrupted Harold. “I hope you brought me some cake.”
-

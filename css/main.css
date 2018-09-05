@@ -21,7 +21,7 @@ blockquote { margin: 0; font-style: italic; font-size: 2rem; line-height: 130%; 
 h1, h2, h3, h4, h5, h6 { margin-top: 0; font-weight: normal; }
 h1 { font-size: 1.8rem; margin-bottom: 0; }
 h2 { font-size: 1.2rem; margin-bottom: 1.0rem; }
-h3 { font-size: 1.0rem; font-weight: bold; margin: 0 0 0.5rem 0; text-align: center; text-transform: lowercase; font-variant-caps: small-caps; letter-spacing: 0.05rem; }
+h3 { font-size: 1.3rem; font-weight: bold; margin: 0 0 0.5rem 0; text-align: center; text-transform: lowercase; font-variant-caps: small-caps; letter-spacing: 0.05rem; }
 h3::before { content: '—'; color: #ccc; padding: 0 0.3rem; }
 h3::after { content: '—'; color: #ccc; padding: 0 0.3rem; }
 h4 { font-size: 2.0rem; margin: 0rem 0 6rem 0; text-align: center; }
@@ -55,6 +55,8 @@ li.prev { float: left; }
 li.next { float: right; }
 ul.prev-next li a {font-size: 0.8rem; }
 
+.about { margin-bottom: 1rem; }
+.acknowledgements { margin-top: 1rem; }
 /* Flexbox
    ========================================================================== */
 
@@ -71,7 +73,7 @@ body.home .flex-item-2 { justify-content: center; align-items: center; }
 .flex-item-2 article { max-width: 68ch;  padding: 0 50px; }
 .flex-item-1 { background: #F6F3F1; border-right: 1px solid #EEEBE9;}
 /* .flex-item-2 { border-left: 1px solid #EEEBE9; } */
-#info { text-align: justify; font-size: 0.95rem; max-width: 360px; margin: -15px auto 0 auto; padding: 1.5rem; background: #fff; text-indent: 0; max-width: 68ch; }
+#info { text-align: justify; font-size: 0.95rem; max-width: 360px; margin: 0 auto; padding: 1.5rem; background: #fff; text-indent: 0; max-width: 68ch; }
 body.chapter .flex-item-2 article { margin: 15vh auto auto; padding-bottom: 1vh; }
 
 
@@ -115,6 +117,20 @@ cursor: pointer; }
 button:hover, .button:hover { background: #222; }
 .button-2 { margin-left: 0.8rem; }
 .chapter-buy { margin-top: 1.5rem; }
+
+nav.prev-next-nav {
+	text-align: left !important;
+	margin: -15px 0 1rem 0;
+	border-top: 0;
+	letter-spacing: 0;
+	overflow: auto;
+	padding: 1rem 1.5rem;
+	background: #fff;
+}
+nav.prev-next-nav a { font-size: 0.85rem; }
+nav.prev-next-nav a:hover { margin-bottom: -3px; }
+nav.prev-next-nav .toc { clear: both; border-top: 1px solid #EEEBE9; width: 100%; margin-top: 1rem; padding-top: 0; }
+
 
 /* Pure Drawer CSS
    Developed by Thomas Wilthil https://www.linkedin.com/profile/view?id=21545731
