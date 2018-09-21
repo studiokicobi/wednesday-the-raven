@@ -81,7 +81,7 @@ She hopped over to the window ledge and peered out across the Park.
 
 I’ll look for you here, thought Ella, question the sparrows, and the chickadees, and the screaming jay. I’ll talk to the starlings, and the ducks, and even the pigeons if I have to.
 
-No, she thought--maybe not the pigeons.
+No, she thought—maybe not the pigeons.
 
 Ella never had much luck talking to pigeons.
 
