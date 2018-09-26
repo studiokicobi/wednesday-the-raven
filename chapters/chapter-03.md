@@ -3,8 +3,9 @@ layout: chapter
 title: Wednesday the Raven
 chapterTitle: Chapter Three
 chapterSubtitle: The Terrible Black Night
-permalink: /chapter-03/
 prevChapter: /chapter-02/
+permalink: /chapter-03/
+nextChapter: /chapter-04/
 ---
 
 On the Terrible Black Night, the rain blew sideways into a little round nest made of twigs and grass. The wind shook the trees and rocked the branches, and the clouds hung low and blanketed the moon and swaddled the stars.

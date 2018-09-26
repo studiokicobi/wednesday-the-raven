@@ -5,6 +5,7 @@ chapterTitle: Chapter Five
 chapterSubtitle: The Cage
 permalink: /chapter-05/
 prevChapter: /chapter-04/
+nextChapter: /chapter-06/
 ---
 
 Ella stood beneath Harold’s cage and waited for the Terrible Black Night to melt away. The heavy words she could not say sank and disappeared into the deep, silent place inside her where words are rarely spoken.

@@ -1,19 +1,11 @@
 ---
-
 layout: chapter
-
 title: Wednesday the Raven
-
 chapterTitle: Chapter Two
-
 chapterSubtitle: The Caged Bird
-
-permalink: /chapter-02/
-
 prevChapter: /chapter-01/
-
+permalink: /chapter-02/
 nextChapter: /chapter-03/
-
 ---
 
 After traveling high and low and near and far, Ella had grown used to the ways birds reacted when they met her. They usually exclaimed:
@@ -35,7 +27,7 @@ Ella tightened her scarf and raised her chin.
 
 “I am not a common sparrow,” she said.
 
----- 
+----
 
 Ella had known she was not a common sparrow since the day she learned to fly. On that day, Ella received from her mother a long blue scarf.
 
@@ -45,13 +37,13 @@ As Ella held the scarf up to the light, her mother looked at her and said, “I 
 
 “My eyes?” said Ella.
 
-This was very surprising. 
+This was very surprising.
 
 “I have blue eyes?” she said.
 
 “Of course you do,” said her mother. “Haven't you noticed how the other birds stare?”
 
-“I thought they stared at my handsome beak,” said Ella. 
+“I thought they stared at my handsome beak,” said Ella.
 
 “No,” said her mother. “Your stubby pale beak is quite plain.”
 
@@ -61,7 +53,7 @@ This was very disappointing.
 
 “But I have blue eyes?” asked Ella.
 
-Her mother wound the scarf around Ella’s neck. 
+Her mother wound the scarf around Ella’s neck.
 
 “You do have blue eyes,” she said. “Your eyes are as blue as the bluest hour before dawn, and they shine like robin eggs bathed in moonlight. This is why the others look at you so. You are not a common sparrow.”
 
@@ -75,13 +67,13 @@ Her mother wound the scarf around Ella’s neck.
 
 Ella couldn’t say. She didn’t know.
 
----- 
+----
 
-Harold scratched his large green belly and looked around his cage. 
+Harold scratched his large green belly and looked around his cage.
 
 “Food?” he muttered. “Maybe, maybe, maybe?”
 
-A _Maybe,_ thought Ella. It sounds almost like a kind of bird. That’s me. There go the Finches, and the Warblers, and the Phoebes. Here comes a Maybe. 
+A _Maybe,_ thought Ella. It sounds almost like a kind of bird. That’s me. There go the Finches, and the Warblers, and the Phoebes. Here comes a Maybe.
 
 “I don’t have any food,” she said. “What did you say about a raven?”
 
@@ -99,23 +91,23 @@ A _Maybe,_ thought Ella. It sounds almost like a kind of bird. That’s me. Ther
 
  “Hello! Are you listening?” said Harold. “Are you aware that a raven is looking for you?”
 
-“You told me twice already!” said Ella. “Is it my raven?” 
+“You told me twice already!” said Ella. “Is it my raven?”
 
-“Your raven?” said Harold. “I don’t know. What does she look like? Maybe this one isn’t your raven.” 
+“Your raven?” said Harold. “I don’t know. What does she look like? Maybe this one isn’t your raven.”
 
-Ella thought for a moment. 
+Ella thought for a moment.
 
 “She’s the largest and most frightening bird I’ve ever seen,” said Ella. “She has pitch black feathers, a shiny dark beak, click-clack claws--”
 
-“It must be hard to be a raven,” said Harold to himself. “Don’t you think? All covered in black. As grave as a tomb.” 
+“It must be hard to be a raven,” said Harold to himself. “Don’t you think? All covered in black. As grave as a tomb.”
 
-He looked back at Ella. 
+He looked back at Ella.
 
 “Hmm?” he said. “What’s that? I don’t think I was listening. Let me check. No, I’m positive I wasn’t.”
 
 Harold bent down in front of the little mirror with a worn yellow frame that hung in his cage. He gazed into the glass and squawked loudly with satisfaction.
 
-“Still green,” he said. 
+“Still green,” he said.
 
 “Please,” said Ella. “This is important. What do you know?”
 
@@ -131,17 +123,17 @@ Maybe I should have landed somewhere else, thought Ella.
 
 “But I don’t want a raven,” said Ella. “I want my mother.”
 
-Harold nodded. “You see what happens when I don’t get enough sleep? I must not have been listening again. I can only imagine it’s your peculiar eyes that distract me.” 
+Harold nodded. “You see what happens when I don’t get enough sleep? I must not have been listening again. I can only imagine it’s your peculiar eyes that distract me.”
 
-He smoothed back the feathers on his brow. 
+He smoothed back the feathers on his brow.
 
-“Or maybe it’s your weird scarf,” he said. He frowned. “You sparrows are so complicated. First you tell me you’re looking for a raven. Now you say you want a mother. Where’s your mother?” 
+“Or maybe it’s your weird scarf,” he said. He frowned. “You sparrows are so complicated. First you tell me you’re looking for a raven. Now you say you want a mother. Where’s your mother?”
 
-Ella hesitated. The whispering breeze rolled by along the windowsill and ruffled her feathers. She shivered. 
+Ella hesitated. The whispering breeze rolled by along the windowsill and ruffled her feathers. She shivered.
 
-“Missing,” said Ella. 
+“Missing,” said Ella.
 
-Her voice sounded small and unimportant. 
+Her voice sounded small and unimportant.
 
 “She’s missing?” said Harold. “Do you mean you lost your mother as well as a raven?”
 
@@ -153,7 +145,7 @@ Ella couldn’t reply.
 
 She thought: This is the story I repeat to myself every day. The storm, the dark wind, the wicked smile. The great claw that reached into the nest and stole you away. The numb rush of air as you disappeared from me. The black cry of the raven as she fled. The search, my long journey. The broken trail. And I would like to be able to say these things, but the words are far too heavy for me to speak.
 
-Ella slowly lowered her head as the heavy words drifted down and sank inside her. 
+Ella slowly lowered her head as the heavy words drifted down and sank inside her.
 
 “Did you fall asleep?” said Harold.
 

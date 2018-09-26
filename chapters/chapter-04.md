@@ -3,8 +3,9 @@ layout: chapter
 title: Wednesday the Raven
 chapterTitle: Chapter Four
 chapterSubtitle: The Book
-permalink: /chapter-04/
 prevChapter: /chapter-03/
+permalink: /chapter-04/
+nextChapter: /chapter-05/
 ---
 
 Ming Zhao looked up and saw a figure approach the Bird House, and from her particular shape and the distinct sway of her walk he recognized her at once.
