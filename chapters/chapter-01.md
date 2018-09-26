@@ -1,17 +1,10 @@
 ---
-
 layout: chapter
-
 title: Wednesday the Raven
-
 chapterTitle: Chapter One
-
 chapterSubtitle: The Bird House
-
 permalink: /chapter-01/
-
 nextChapter: /chapter-02/
-
 ---
 
 In the middle of the metropolis lay the park with the important and hard-to-remember name—the _Something Something_ Memorial Public Garden. No one ever used this name. Instead, they simply called it the Park, and this made life a little easier for everyone.
