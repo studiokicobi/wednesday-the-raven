@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: Wednesday the Raven
-chapterTitle: Chapter Five
+chapterTitle: Chapter Six
 chapterSubtitle: A Clue
 prevChapter: /chapter-05/
 permalink: /chapter-06/
