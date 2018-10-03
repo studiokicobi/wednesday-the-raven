@@ -5,6 +5,7 @@ chapterTitle: Chapter Six
 chapterSubtitle: A Clue
 prevChapter: /chapter-05/
 permalink: /chapter-06/
+nextChapter: /chapter-07/
 ---
 
 Ming Zhao pushed through the kitchen door, and Ella lifted up and left Harold and flew around to the kitchen window and landed on the sill. She hopped back and forth and examined the scene of the crime.
@@ -67,7 +68,7 @@ Because it was Zhao’s cake, it conjured a memory.
 
 Ella remembered standing in the rain.
 
-----
+---- 
 
 On the day she learned to fly, Ella and her mother stood in their nest and in the storm. Ella’s mother perched at the edge of the nest. Ella huddled beside and a little behind her mother. Water beat down from the heavy sky and slapped the leaves and stained the tree trunks dark. Ella peeked around her mother and over the edge. The sodden ground lay far below. Ella pulled her long blue scarf tight around her neck.
 
@@ -99,7 +100,7 @@ Her mother gave her a gentle nudge and led her to the edge of the nest.
 
 “Yes,” said Ella. “Tell me.”
 
-----
+---- 
 
 “And now this burglary!” said Madame Alouette. “Larceny and looting! Everything broken and busted and burst. And who knows why? Nobody, that’s who!”
 
