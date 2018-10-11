@@ -41,7 +41,7 @@ Two hours earlier, Zhao had woken in the dark and felt a change stir the air. He
 
 Change, he thought. Maybe something has already happened.
 
-The stars above winked out in twos and threes and one by one until only a single star remained. Somewhere in the Park, a bird greeted the day with a low melody. Soon another joined in. In a few minutes, hundreds of birds sang, and their songs dipped and soared and crisscrossed and merged, and together they stitched the dawn into the end of the night. A whispering breeze blew past Zhao and rippled up and over the Bird House and nudged the weathervane and rolled away. The weathervane swung toward the Broken Clock Tower, and the canary caught the first light of day and began to shine.
+The stars above winked out in twos and threes and one by one until only a single star remained. Somewhere in the Park, a bird greeted the day with a low melody. Soon another joined in. In a few minutes, hundreds of birds sang, and the songs dipped and soared and crisscrossed and merged, and together they stitched the dawn into the end of the night. A whispering breeze blew past Zhao and rippled up and over the Bird House and nudged the weathervane and rolled away. The weathervane swung toward the Broken Clock Tower, and the canary caught the first light of day and began to shine.
 
 Ella steadied herself as the weathervane turned.
 
@@ -95,7 +95,7 @@ Zhao took a short step toward his parents and lifted the plate higher. The curls
 
 He took another step.
 
-Zhao knew it is difficult to say No to cake. Most people, when asked if they would like cake, will say Yes. This is part of the basic nature of cake. Even those who would normally say No to any of the many wonders of the world (the view from a tall ladder, or a sudden toll of bells, or a small rumpus of kittens) will still say Yes to cake. And when confronted with cake so hypnotically delightful as Zhao’s cake, it is very nearly and almost completely impossible to say No. If that cake sits nearby, still warm from the oven, and the breeze drifts in and fans the cake’s unusual and extraordinary aromas across the room, the word No can only melt in even the coldest, most curmudgeonly mouths and be replaced—if not by a Yes, at least by words that for all intents and purposes can mean nothing else but simply: Yes.
+Zhao knew it is difficult to say _No_ to cake. Most people, when asked if they would like cake, will say _Yes_. This is part of the basic nature of cake. Even those who would normally say _No_ to any of the many wonders of the world (the view from a tall ladder, or a sudden toll of bells, or a small rumpus of kittens) will still say _Yes_ to cake. And when confronted with cake so hypnotically delightful as Zhao’s cake, it is very nearly and almost completely impossible to say _No_. If that cake sits nearby, still warm from the oven, and the breeze drifts in and fans the cake’s unusual and extraordinary aromas across the room, the word _No_ can only melt in even the coldest, most curmudgeonly mouths and be replaced—if not by a _Yes_, at least by words that for all intents and purposes can mean nothing else but simply: _Yes_.
 
 Zhao’s mother looked at the plate and licked her lips.
 
@@ -127,7 +127,7 @@ They sounded like a plan.
 
 Inside the cage, Harold yawned and blinked and scrunched up his face and shook himself awake. His gray eyes drooped and his hard bill curled and he peered down at the tiny sparrow and did not smile.
 
-“Really?” he said. “Huh. Because there’s also a raven looking for you.”
+“Huh,” he said. “You look for a raven, and a raven looks for you. Thanks for waking me to tell me this important news. Goodbye.”
 
 This was not the answer Ella had expected.
 
@@ -143,4 +143,4 @@ He squinted.
 
 “But—” began Ella.
 
-“I’m hungry,” interrupted Harold. “I hope you brought me some cake.”
+“I’m hungry,” interrupted Harold. “I sincerely hope you brought me some cake.”
