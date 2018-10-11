@@ -90,7 +90,7 @@ Her mother shook herself dry.
 
 “We yaw?”
 
-“We twist our wings to meet the air. We have to. Imagine you’re flying, and the wind blows against you in some unsteady flow--”
+“We twist our wings to meet the air. We have to. Imagine you’re flying, and the wind blows against you in some unsteady flow—”
 
 “But what if I can’t fly?” said Ella. “What if I can only fall?”
 
@@ -130,7 +130,7 @@ Madame Alouette reached past the feather and picked up the whisk that lay beside
 
 Madame Alouette whisked the air.
 
-“Can you see? Whisk, whisk, whisk. Maybe we’ll never know why. Maybe this is just a funny day when everything could happen.”
+“Can you see how it works? Whisk, whisk, whisk. Maybe we’ll never know why. Maybe this is just a funny day when everything could happen.”
 
 “I am a Maybe,” said Ella. “I see footprints, scratches, and a lost feather. I know something. I know why. I am going to find my mother.”
 
