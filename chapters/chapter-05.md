@@ -54,7 +54,7 @@ Ella looked at the parrot, and at the cage door. She took a step, and hesitated.
 
 Ella looked at the cage. It was round and tall and made of brass. The bars glowed a dull orange color, and the metalwork curved and spiraled and burst into fancy, decorative flourishes. It looked much more luxurious than the humble nest where she and her mother had lived.
 
-She tried to picture herself inside the cage perched next to the large green parrot. They would stare through the dull brass bars, and out through the window, and wait for their breakfast which would arrive every morning like clockwork. They would peer into the mirror. They would watch the disappointments of the world from the safety of their home. No great raven claws could reach them, and no numb rush of air could defeat them. No dark wind or difficulty or despair could find them.
+She tried to picture herself inside the cage perched next to the large green parrot. They would sit and stare through the dull brass bars, and out through the window, and wait for their breakfast which would arrive every morning like clockwork. They would peer into the mirror. They would watch the disappointments of the world from the safety of their home. No great raven claws could reach them, and no numb rush of air could defeat them. No dark wind or difficulty or despair could find them.
 
 Maybe it is better, thought Ella. What will become of me if I can’t find my mother? Maybe I should give up.
 
@@ -72,7 +72,7 @@ Ella shook her head and looked up at Harold.
 
 Ella looked the cage up and down.
 
-“I know I am only a tiny sparrow,” she said, “but I think my dreams are taller.”
+“I know I am only a tiny sparrow,” she said, “but I think my dreams are taller than this.”
 
 Harold stared at her with his gray droopy eyes.
 
