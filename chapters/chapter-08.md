@@ -5,6 +5,7 @@ chapterTitle: Chapter Eight
 chapterSubtitle: The Chattering Pond
 prevChapter: /chapter-07/
 permalink: /chapter-08/
+nextChapter: /chapter-09/
 ---
 
 Ella left Madame Alouette and the kitchen and pointed herself at the sky and soared up and up into the thinning air.
