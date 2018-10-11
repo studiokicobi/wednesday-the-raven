@@ -269,21 +269,19 @@ Ella chased after the Captain and caught up when a group of starlings panicked a
 
 The chickadee grabbed Ella’s scarf and yanked her off her feet.
 
-A second chickadee grabbed the other end of the scarf, and they both began to tug and pull. They ran in circles and chased each other and spun Ella around and into a blur.
+A second chickadee grabbed the other end of the scarf, and they both began to tug and pull. The chickadees ran in circles and chased each other and spun Ella around and around and into a blur.
 
 “Let go!” cried Ella. “Stop!”
 
 The chickadees kept running.
 
-“Stop!” she cried again.
-
-They stopped.
+“Stop!” she cried again, and this time, they stopped.
 
 Ella lay on the ground, eyes shut and too dizzy to stand. She heard a brief scuffle, and the scarf went slack. A shadow fell over her.
 
 “Hello, sparrow,” whispered a hoarse voice.
 
-Ella opened her eyes and tried to focus. The woozy Park revolved around her.
+Ella opened her eyes and tried to focus. The woozy Park still revolved around her.
 
 “Do I see a jay?” she asked.
 
@@ -303,13 +301,13 @@ Ella struggled to her feet. She turned her head and craned her neck to follow th
 
 “Of course not,” said Ella. “I mean—yes, but I didn’t mean to offend you.”
 
-The jay who circled was blue, but he was definitely not altogether blue. He had all his white, black and gray plumage, but he had lost a large number of blue feathers from various places on his body. His crest stuck out in scraggly points, and his tail hung limp and tattered. A strange bald patch dotted his back.
+The jay who circled her was blue, but he was definitely not altogether blue. He had all his white, black and gray plumage, but he had lost a large number of blue feathers from various places on his body. His crest stuck out in scraggly points, and his tail hung limp and tattered. A strange bald patch dotted his back.
 
 He looks half-plucked, thought Ella.
 
 “Do you see trouble?” whispered the jay.
 
-He stopped circling Ella and moved closer.
+He moved closer.
 
 “Maybe you’re searching for trouble,” he whispered.
 
@@ -351,7 +349,9 @@ The jay didn’t answer.
 
 “You do?”
 
-The jay looked at her slyly. “A little bird must have told me,” he whispered.
+The jay looked at her slyly. 
+
+“A little bird told me,” he whispered.
 
 The Captain stepped forward from out of the crowd.
 
