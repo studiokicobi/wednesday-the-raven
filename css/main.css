@@ -25,7 +25,7 @@ h3 { font-size: 1.3rem; font-weight: bold; margin: 0 0 0.5rem 0; text-align: cen
 h3::before { content: '—'; color: #ccc; padding: 0 0.3rem; }
 h3::after { content: '—'; color: #ccc; padding: 0 0.3rem; }
 h4 { font-size: 2.0rem; margin: 0rem 0 6rem 0; text-align: center; }
-p { font-size: 1.05rem; margin: 0; text-indent: 1.5rem;   text-align: justify; }
+p { font-size: 1.05rem; margin: 0; text-indent: 1.5rem; text-align: justify; }
 /* body.chapter  */.flex-item-2 article p:first-of-type:first-of-type { text-indent: 0; }
 .normal { font-weight: normal; }
 .hedera { font-family: 'et-book', serif; font-size: 2.5rem; text-align: center; display: block; color: #aaa; margin: 0; }
@@ -72,8 +72,8 @@ body.chapter .flex-item-1 img { max-width: 227px; max-height: 366px; margin: 0 a
 /* Drop cap */
 /* body.chapter */ .flex-item-2 article p:first-of-type:first-letter { color: #222; float: left; font-size: 5.7rem; line-height: 5.15rem; padding-top: 0px; padding-right: 8px; padding-left: 0px; margin:-1px -5px -10px -5px; text-indent: 0; }
 
-/* Kill drop cap styles for ol */
-.flex-item-2 article ol li p:first-of-type:first-letter { color: default; float: none; font-size: default; line-height: default; padding-top: default; padding-right: default; padding-left: default; margin: default; text-indent: default; }
+/* Remove drop cap styles for ol */
+.flex-item-2 article ol li p:first-of-type:first-letter { color: default; float: none; font-size: 1.05rem; line-height: 1.5; padding: 0; margin: 0; text-indent: none; }
 
 body.home .flex-item-2 { justify-content: center; align-items: center; }
 .flex-item-2 article { max-width: 68ch;  padding: 0 50px; }
