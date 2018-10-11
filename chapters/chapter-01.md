@@ -33,7 +33,7 @@ I wish you could tell me where to go, she thought.
 
 She looked across the Park and sighed a tiny sparrow sigh.
 
-In front of the Bird House, the owner and proprietor sat on the steps and waited for his baker.
+In front of the Bird House, the very young proprietor sat on the steps and waited for his baker. 
 
 Change, thought Ming Zhao. The substitution of one thing for another. Something is about to happen.
 
@@ -49,7 +49,7 @@ A maybe is possible, she thought.
 
 Zhao leaned back and closed his eyes and listened to the breeze and the birds stir in the Park.
 
-As a young man, Zhao had chosen to work with the three things that brought him the most happiness in the world.
+Although he was only a boy, Zhao had already chosen his life’s work: the three things that brought him the most happiness in the world.
 
 The first was tea.
 
@@ -67,19 +67,19 @@ This, thought his parents, was very surprising.
 
 “And are you aware of how you will earn a living from these very non-important things?” asked his father.
 
-“I am not aware,” admitted the young Ming Zhao. “Should I be?”
+“I am not aware,” admitted Ming Zhao. “Should I be?”
 
 His parents pointed accusing fingers at each other. “This is all your fault!” they shouted.
 
-The young Zhao held a large plate before him, and in the middle of the large plate stood two tiny, perfect cakes. The cakes glistened from the heat of the oven, and above them rose little curls of steam that twisted and twirled and vanished in the air.
+Zhao held a large plate before him, and in the middle of the large plate stood two tiny, perfect cakes. The cakes glistened from the heat of the oven, and above them rose little curls of steam that twisted and twirled and vanished in the air.
 
 Zhao’s canary saw the cakes on the plate and began to sing.
 
-“Please,” said Zhao to his parents, “try one. And then I must go. Today I will set out to work with the three things that bring me the most happiness in the world.”
+“Please,” said Zhao to his parents, “try one. And then I must go. Today I will set out to work with the three things that bring me the most happiness in the world. I will of course return in time for supper.”
 
 “No and no and no,” said Ming Zhao’s mother. “There will be no making tea and cakes for you. We need to see your uncle about getting you a job in the company. Right away!”
 
-“Right away,” echoed his father.
+“Right away,” echoed his father, “although you are only a boy.”
 
 Zhao had never completely understood the mysterious company and the vague nature of his uncle’s work. He knew his uncle spent his days in an office, and that the office connected to a factory, and in the factory they made a kind of inexpensive, disposable, and forgettable gadget. Zhao wasn’t sure what the gadget was supposed to do, but he understood that whatever it was, it performed the job poorly and sometimes not at all. He once overheard his father refer to the uncle’s contraption as _My idiot brother’s useless toy._
 
