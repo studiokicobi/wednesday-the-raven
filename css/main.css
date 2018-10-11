@@ -68,7 +68,13 @@ body.home .flex-item-1 { flex-direction:row; }
 body.home .flex-item-1 img,
 body.chapter .flex-item-1 img { max-width: 227px; max-height: 366px; margin: 0 auto 1.5rem auto; }
 .flex-item-2 { flex: 0 0 auto; overflow: auto; justify-content: flex-start; }
+
+/* Drop cap */
 /* body.chapter */ .flex-item-2 article p:first-of-type:first-letter { color: #222; float: left; font-size: 5.7rem; line-height: 5.15rem; padding-top: 0px; padding-right: 8px; padding-left: 0px; margin:-1px -5px -10px -5px; text-indent: 0; }
+
+/* Kill drop cap styles for ol */
+.flex-item-2 article ol li p:first-of-type:first-letter { color: default; float: none; font-size: default; line-height: default; padding-top: default; padding-right: default; padding-left: default; margin: default; text-indent: default; }
+
 body.home .flex-item-2 { justify-content: center; align-items: center; }
 .flex-item-2 article { max-width: 68ch;  padding: 0 50px; }
 .flex-item-1 { background: #F6F3F1; border-right: 1px solid #EEEBE9;}
