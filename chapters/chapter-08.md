@@ -27,7 +27,7 @@ Ella looked closer.
 
 There was food involved.
 
-The young man who stood near the edge of the Pond reached deep into a brown paper sack, pulled out a handful of crumbs, and scattered them over the crowd. At his feet rested a small canvas bag. Inside the bag he carried a ring of keys, a small collection of tools, and a card noting his acceptance as an apprentice by the regional chapter of the National Clockmakers Guild.
+The boy who stood near the edge of the Pond reached deep into a brown paper sack, pulled out a handful of crumbs, and scattered them over the crowd. At his feet rested a small canvas bag. Inside the bag he carried a ring of keys, a small collection of tools, and a card noting his acceptance as an apprentice by the regional chapter of the National Clockmakers Guild.
 
 The young apprentice spoke quietly to himself as he fed the birds.
 
@@ -107,7 +107,7 @@ The chickadee squeezed between a pair of finches and vanished.
 
 Ella frowned. This was not going as well as she had hoped.
 
-More birds arrived, and the young apprentice took a another handful of crumbs and scattered them over the swirling crowd. The birds flapped and squawked with excitement. Everyone bumped and prodded and chattered loudly, but no one would talk to Ella or look into her eyes.
+More birds arrived, and the young apprentice took another handful of crumbs and scattered them over the swirling crowd. The birds flapped and squawked with excitement. Everyone bumped and prodded and chattered loudly, but no one would talk to Ella or look into her eyes.
 
 A mourning dove plowed her way through the crowd, stepping over and sometimes on the chickadees. She marched straight toward Ella.
 
@@ -143,13 +143,13 @@ Two mockingbirds saw the dove and looked at each other. They put on sad expressi
 
 The mockingbirds saw Ella.
 
-“Uh-oh,” they said. They glanced nervously at each other and flew away fast.
+“Uh-oh,” they said. They glanced nervously at each other and quickly flew away.
 
 “Wait!” called the mourning dove. “Can you get us a pigeon? We need a pigeon.”
 
 “We don’t need—” began Ella, then reared back her head. “Gah!” she said. “What are you doing?”
 
-A pigeon pulled his face back from hers. His red-ringed eyes were round and wild.
+A pigeon pulled his face back from hers. His red-ringed eyes bulged round and wild.
 
 “I am a pigeon,” he said.
 
@@ -175,7 +175,7 @@ The pigeon stared at her.
 
 “I have now forgotten what we are talking about,” he said.
 
-He began to hop from one foot to the other and bob his head.
+He hopped from one foot to the other and bobbed his head.
 
 More crumbs rained down, and the crowd of birds ran and spun and stole and argued and pushed each other this way and that.
 
@@ -247,13 +247,13 @@ The Captain shook his head. “I can’t answer you,” he said. “I’m very b
 
 “You don’t remember where _she_ is.”
 
-“Of course I don’t,” said the Captain. “And if you’re done analyzing my pronouns, let me remind you that we both need to run away as fast as we can. Immediately. Right away. Goodbye.”
+“Of course I don’t,” said the Captain. “And please my pronouns. Let me remind you that we both need to run away as fast as we can. Immediately. Right away. Goodbye.”
 
 He pushed his way off into the crowd.
 
 “Goodbye!” said the mourning dove.
 
-Ella chased after the Captain and caught up to him when he got stuck behind a group of starlings. The mourning dove swung around and knocked over another chickadee and trotted after Ella.
+Ella chased after the Captain and caught up when a group of starlings panicked and jammed the path. The mourning dove swung around and knocked over another chickadee and trotted after Ella.
 
 “This is an emergency,” said Ella. “It’s a question of life and death.”
 
@@ -279,7 +279,7 @@ The chickadees kept running.
 
 They stopped.
 
-Ella lay on the ground with her eyes shut, too dizzy to stand. She heard a brief scuffle, and the scarf went slack. A shadow fell over her.
+Ella lay on the ground, eyes shut and too dizzy to stand. She heard a brief scuffle, and the scarf went slack. A shadow fell over her.
 
 “Hello, sparrow,” whispered a hoarse voice.
 
@@ -303,7 +303,7 @@ Ella struggled to her feet. She turned her head and craned her neck to follow th
 
 “Of course not,” said Ella. “I mean—yes, but I didn’t mean to offend you.”
 
-The jay who stood before her was blue, but he was definitely not altogether blue. He had all his white, black and gray plumage, but he had lost a large number of blue feathers from various places on his body. His crest stuck out in scraggly points, and his tail hung limp and tattered. A strange bald patch dotted his back.
+The jay who circled was blue, but he was definitely not altogether blue. He had all his white, black and gray plumage, but he had lost a large number of blue feathers from various places on his body. His crest stuck out in scraggly points, and his tail hung limp and tattered. A strange bald patch dotted his back.
 
 He looks half-plucked, thought Ella.
 
@@ -329,7 +329,7 @@ The jay’s face filled with rage. He leapt in the air and threw back his head a
 
 Ella staggered.
 
-The apprentice stared.
+The apprentice reared back and stared.
 
 As the jay’s scream pierced the air, the birds scrambled as far back from Ella and the jay as possible. No one spoke.
 
@@ -377,7 +377,7 @@ Ella looked at the jay.
 
 “What can be arranged?” she said.
 
-“Everything,” he whispered. “Everything’s already arranged. All you have to do is go to the Tower.”
+“Everything,” he whispered. “Everything is already arranged. All you have to do is go to the Tower.”
 
 “What?” said Ella. “Where?”
 
@@ -439,9 +439,9 @@ He paused.
 
 The Captain was gone.
 
-“That’s so sad,” said the mourning dove. She shook her head. “Life seems so difficult sometimes, don’t you think? It’s impossible.”
+“That’s so sad,” said the mourning dove. She shook her head. “Life seems so difficult sometimes, don’t you think? It’s nearly impossible.”
 
-Ella glanced at her, and then back at the Broken Clock Tower.
+Ella glanced at the dove and back at the Broken Clock Tower.
 
 “A maybe is possible,” she said.
 
@@ -449,8 +449,8 @@ Ella lifted her wings and leapt into the air.
 
 The apprentice turned the paper sack upside down and shook out the last of the crumbs. He folded the sack and slipped it into his bag.
 
-“That’s it,” he said. “That’s the end.”
+“That’s the end,” he said.
 
-The birds pecked a little more, and then wandered off. Soon it was quiet again. The apprentice stood by the Chattering Pond and looked over at the Tower.
+The birds pecked a little more and wandered off. Soon it grew quiet again. The apprentice stood by the Chattering Pond and looked over at the Tower.
 
 “Maybe,” he said. “Maybe I will climb the tower today.”
