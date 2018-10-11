@@ -247,7 +247,7 @@ The Captain shook his head. “I can’t answer you,” he said. “I’m very b
 
 “You don’t remember where _she_ is.”
 
-“Of course I don’t,” said the Captain. “And please my pronouns. Let me remind you that we both need to run away as fast as we can. Immediately. Right away. Goodbye.”
+“Of course I don’t,” said the Captain. “And please ignore my pronouns. Let me remind you that we both need to run away as fast as we can. Immediately. Right away. Goodbye.”
 
 He pushed his way off into the crowd.
 
