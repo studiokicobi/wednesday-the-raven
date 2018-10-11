@@ -22,7 +22,7 @@ Everywhere they gathered, the birds chirped and chattered and soon the news swep
 
 The news sped up with the momentum of the day. It hopped and swooped from nest to roost and into the fringe of the big city, skipped across the outskirts and along the river and hummed past the suspension cables as it darted over the long bridges. When it reached the other side, it zigzagged the busy streets and kept moving until it arrived at a park with an important and hard-to-remember name.
 
-Inside the Park, a tattered jay heard the news and looked up in surprise. He whispered in his hoarse voice, “Blue? Did you say she has blue eyes?” And later that day, when the bright twilight made silhouettes of the trees and the yellow streetlights trembled to life, the jay stood alone inside his evergreen shadows and wondered.
+Inside the Park, a tattered jay heard the news and looked up in surprise. He whispered in his hoarse voice, “Blue? Did you say she has blue eyes?” And later that day, when the bright twilight cut silhouettes from the trees and the yellow streetlights trembled to life, the jay stood alone inside his evergreen shadows and wondered.
 
 “Of course I’ll tell her,” he whispered to himself. “I have to tell her. But how?”
 
