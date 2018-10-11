@@ -12,7 +12,7 @@ Ming Zhao looked up and saw a figure approach the Bird House, and from her parti
 
 Madame Alouette lumbered toward the Bird House with the short happy steps of a baker devoted to her work.
 
-The baker stopped at a park bench close to the Bird House, plopped down and tried to catch her breath and looked up at the sky. The unstoppable morning had arrived.
+The baker stopped at a park bench close to the Bird House, plopped down and tried to catch her breath. She looked up at the sky. The unstoppable morning had arrived.
 
 Sunup and sunrise, she thought.
 
@@ -42,7 +42,7 @@ Madame Alouette put on her thoughtful expression again.
 
 One hundred percent, thought Madame Alouette. That is a lot. Can anyone ever possibly be one hundred percent sure of anything at all? One hundred sounds far-fetched. It sounds unattainable and unreasonable. It sounds like too much.
 
-She stood and took Zhao’s arm, and together they walked slowly to the Majestic Teahouse of Many Delights.
+She stood and reached down and took Zhao’s hand, and together they walked slowly to the Majestic Teahouse of Many Delights.
 
 As they entered the Teahouse, Madame Alouette noticed a whispering, wandering breeze drift across the room. She followed the breeze and saw the window by Harold’s cage stood open. A little sparrow sat in the window with her eyes shut tight.
 
@@ -112,7 +112,7 @@ Madame Alouette gasped and covered her mouth.
 
 “This is a bad change,” said Zhao.
 
-In the kitchen they found another window open, and the entire room turned upside-down and topsy-turvy. Flour bins, sugar bowls, and various containers lay tipped on their sides. Jars had fallen from their shelves and spilled where they landed. Shards of teapots and teacups scattered the floor. Wooden spoons and steel utensils rested in random places. Honey dripped from an overturned jar and spread in a slow, sticky pool across the floor.
+In the kitchen they found another window open, and the entire room turned upside-down and topsy-turvy. Flour bins, sugar bowls, and various containers lay tipped on their sides. Packages had fallen from their shelves and spilled where they landed. Shards of teapots and teacups scattered the floor. Wooden spoons and steel utensils rested in random places. Honey dripped from an overturned jar and spread in a slow, sticky pool across the floor.
 
 “A housebreaker!” said Madame Alouette. “We’ve had a cat-burglar, a plunderer, a thief!”
 
@@ -128,17 +128,17 @@ She looked at the wreckage.
 
 “Where’s the book?” she asked.
 
-----
+---- 
 
-At the Bird House, Ming Zhao served one hundred and fifty-six varieties of tea. Some were as delicate and bright as the dew that hangs from spiderwebs. Others were as fresh as newly mown fields, or as playful as monkeys, or as dark and smoky as a blacksmith’s hearth.
+At the Bird House, the young Ming Zhao served one hundred and fifty-six varieties of tea. Some were as delicate and bright as the dew that hangs from spiderwebs. Others were as fresh as newly mown fields, or as playful as monkeys, or as dark and smoky as a blacksmith’s hearth.
 
 Zhao also served cakes: tiny, kaleidoscopic cakes, presented on ornamental plates as if they were the jewels of a maharaja. No one could ever agree on exactly what the cakes tasted like. The flavors were always right there on the tip of the tongue, but they blended, and shifted, disguised themselves and got turned around, and in the end became something both faraway and familiar at the same time.
 
-Because of the way Zhao and Madame Alouette crafted their cakes, two separate bites often tasted like two different things entirely. The first bite might taste of autumn fruits--the kinds that hang on branches almost out of reach. The second bite could taste of the bright snap of spring clover, or the long, tangled aromas of deep jungle flowers, or the small celebrations of tiny peppermint explosions.
+Because of the way Zhao and Madame Alouette crafted their cakes, two separate bites often tasted like two different things entirely. The first bite might taste of autumn fruits—the kinds that hang on branches almost out of reach. The second bite could taste of the bright snap of spring clover, or the long, tangled aromas of deep jungle flowers, or the small celebrations of tiny peppermint explosions.
 
-Those who ate Zhao’s cakes also found that they conjured memories--memories previously lost, or misplaced, or hidden away.
+Those who ate Zhao’s cakes also found that they conjured memories—memories previously lost, or misplaced, or hidden away.
 
-----
+---- 
 
 When Zhao’s mother tasted the cake she took from the large plate, all she could say was a single word in a small voice:
 
@@ -152,7 +152,7 @@ He looked at his wife, and from her distant gaze he knew that the same wave of m
 
 “We were different then,” repeated his father.
 
-“We wandered,” said his mother. “We walked and wandered through shadowed groves and searched for adventure.”
+“A girl and boy who wandered,” said his mother. “We walked and wandered through shadowed groves and searched for adventure.”
 
 “We found adventure,” said his father. “I remember a field of lilies, taller than us. As we slipped between them, they swung back and we vanished without a trace. No villains could pursue us. We founded kingdoms in meadows and ate wild berries that stained our lips violet. We promised we would live there forever.”
 
@@ -176,7 +176,7 @@ They ate their cakes and listened to the canary sing. The bird flew from the cag
 
 His mother turned to Zhao.
 
-“Maybe we shouldn’t mention this to your uncle,” she said. “Maybe we don’t need to speak of this again.”
+“Maybe we shouldn’t mention this to your uncle,” she said. “After all, you are only a boy. Maybe we don’t need to speak of this again.”
 
 Ming Zhao bowed low.
 
@@ -186,7 +186,7 @@ She licked her fingers and looked at the empty plate.
 
 “Maybe,” said Zhao.
 
-----
+---- 
 
 Because of their memory-conjuring qualities, and even though the cakes were small, most people found they never wanted more than one per visit. Because there were so many varieties, many people had never eaten the same kind of cake twice. And because all of the recipes for the cakes were kept in one place and one place only, Ming Zhao and Madame Alouette knew the book containing their catalogue of recipes was gone. An empty space gaped on the shelf where it used to stand.
 
@@ -210,7 +210,7 @@ Zhao picked up a broken teapot from the floor and looked inside it. The book was
 
 “Do you remember the recipes?” asked Madame Alouette. “Do you recall the many directions and instructions?”
 
-“There are over five hundred recipes. I remember some.”
+“There are over five hundred recipes,” said Zhao. “I remember some.”
 
 Madame Alouette sighed. “I remember some as well. A few. A short supply. A handful.”
 
@@ -218,7 +218,7 @@ Madame Alouette sighed. “I remember some as well. A few. A short supply. A han
 
 She nodded.
 
-Zhao placed the broken teapot on a table. “I think the change has arrived,” he said. “Last night I had a curious dream. I dreamed that all the windows burst open and a strange dark wind flew into my house. It flew through the rooms, picked up my belongings, and carried them all outside--even the bed from under me. It arranged them in little rows, and teetering stacks, and funny combinations. Then a bell began to ring, and everything collapsed and tumbled into a pile and the dark wind vanished and it was quiet again.”
+Zhao placed the broken teapot on a table. “I think the change has arrived,” he said. “Last night I had a curious dream. I dreamed that all the windows burst open and a strange dark wind flew into my house. It flew through the rooms, picked up my belongings, and carried them all outside—even the bed from under me. It arranged them in little rows, and teetering stacks, and funny combinations. Then a bell began to ring, and everything collapsed and tumbled into a pile and the dark wind vanished and it was quiet again.”
 
 Madame Alouette leaned over and picked up an apron from the floor.
 
