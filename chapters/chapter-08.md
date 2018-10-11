@@ -83,7 +83,7 @@ The second sparrow backed away and said, “You should understand, I really don�
 
 “Listen to me,” he said. “I can’t talk to you. It’s very unhealthy.”
 
-“But--” said Ella.
+“But—” said Ella.
 
 The second sparrow also turned and fled into the crowd.
 
@@ -121,7 +121,7 @@ The mourning dove stared at her with wide, empty eyes.
 
 “Never mind,” said Ella. “I’m looking for a raven.”
 
-“Oh, that’s right--I remember now,” said the mourning dove. “Isn’t that sad?”
+“Oh, that’s right—I remember now,” said the mourning dove. “Isn’t that sad?”
 
 Ella waited.
 
@@ -147,7 +147,7 @@ The mockingbirds saw Ella.
 
 “Wait!” called the mourning dove. “Can you get us a pigeon? We need a pigeon.”
 
-“We don’t need--” began Ella, then reared back her head. “Gah!” she said. “What are you doing?”
+“We don’t need—” began Ella, then reared back her head. “Gah!” she said. “What are you doing?”
 
 A pigeon pulled his face back from hers. His red-ringed eyes were round and wild.
 
@@ -227,7 +227,7 @@ The Captain looked quickly from side to side.
 
 “Of course not,” said the Captain. “No one here has. Have you?”
 
-“No,” said Ella, “and that’s why--”
+“No,” said Ella, “and that’s why—”
 
 “Good,” said the Captain. “Having done my duty and warned you, I think we should both run away as fast as we can.”
 
@@ -301,7 +301,7 @@ Ella struggled to her feet. She turned her head and craned her neck to follow th
 
 “Is that so,” whispered the jay. “Is that what you think?”
 
-“Of course not,” said Ella. “I mean--yes, but I didn’t mean to offend you.”
+“Of course not,” said Ella. “I mean—yes, but I didn’t mean to offend you.”
 
 The jay who stood before her was blue, but he was definitely not altogether blue. He had all his white, black and gray plumage, but he had lost a large number of blue feathers from various places on his body. His crest stuck out in scraggly points, and his tail hung limp and tattered. A strange bald patch dotted his back.
 
@@ -425,7 +425,7 @@ Ella nodded again.
 
 I will find you, she thought.
 
-“Here’s the story,” said the Captain. “Once upon a time, there was a little blue-eyed sparrow--”
+“Here’s the story,” said the Captain. “Once upon a time, there was a little blue-eyed sparrow—”
 
 He paused.
 
