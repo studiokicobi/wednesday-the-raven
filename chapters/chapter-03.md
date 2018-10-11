@@ -60,7 +60,7 @@ Click.
 
 Clack.
 
-The clicks and clacks grew louder. They grew closer. They sounded very much like two heavy claws that stepped carefully along a slippery branch in the dark.
+The clicks and clacks grew louder. They grew closer. The clicks and clacks sounded very much like two heavy claws stepping carefully along a slippery branch in the dark.
 
 “Where are you?” muttered a low voice.
 
