@@ -32,7 +32,7 @@ p { font-size: 1.05rem; margin: 0; text-indent: 1.5rem; text-align: justify; }
 /* .chapters { text-transform: lowercase; font-variant-caps: small-caps; } */
 .chapters em { text-transform: none; font-variant-caps: normal; font-size: 0.8rem; }
 #copyright { clear: both; text-align: right; text-indent: 0; margin: 3.5rem 0 0 0; font-family: 'Lato', sans-serif; font-weight: 700;  }
-#copyright, #copyright a { font-size: 40% !important; text-transform:uppercase; !important; color: rgba(0, 0, 0, 0.2) !important; letter-spacing: 0.03rem !important; }
+#copyright, #copyright a { font-size: 40% !important; text-transform:uppercase !important; color: rgba(0, 0, 0, 0.2) !important; letter-spacing: 0.03rem !important; }
 #copyright a { border-bottom: 1px solid #ddd; }
 #copyright a:hover { color: #000 !important; border-bottom: 1px solid #ccc !important; }
 hr { background: transparent; border: 0; margin: 2rem 0 3.5rem 0; padding: 0; }
@@ -81,6 +81,7 @@ body.home .flex-item-2 { justify-content: center; align-items: center; }
 /* .flex-item-2 { border-left: 1px solid #EEEBE9; } */
 #info { text-align: justify; font-size: 0.95rem; max-width: 360px; margin: 0 auto; padding: 1.5rem; background: #fff; text-indent: 0; max-width: 68ch; }
 body.chapter .flex-item-2 article { margin: 15vh auto auto; padding-bottom: 1vh; }
+
 
 
 /* Links, buttons, etc.
