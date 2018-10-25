@@ -5,6 +5,7 @@ chapterTitle: Chapter Nine
 chapterSubtitle: The Chattering Pond
 prevChapter: /chapter-08/
 permalink: /chapter-09/
+nextChapter: /chapter-10/
 ---
 
 Edward Rook woke in the grass and weeds at the base of the Broken Clock Tower. He placed his hands on his chest and breathed a deep breath and felt around for his heartbeat. He listened to the chattering birds at the Chattering Pond, and he looked up through the treetops and out into the new blue sky.
@@ -65,7 +66,7 @@ Even if it isn’t a sign, he thought, I can’t just lie around and let the sta
 
 Edward stood up.
 
-----
+---- 
 
 Nearby, a man sat hunched behind a newspaper and pretended to read in the morning light. Detective Weisell peered over the top of the paper and kept his eyes fixed on the bushes beside the Broken Clock Tower.
 
@@ -115,7 +116,7 @@ He didn’t know. He wrote:
 
 The weight of the world on his shoulders.
 
-----
+---- 
 
 The previous day, the Police Chief called Weisell into his office.
 
@@ -159,7 +160,7 @@ Weisell had never liked those hydrangeas.
 
 He knew what he had to do.
 
-----
+---- 
 
 Weisell glanced around the Park and squirmed uncomfortably on his bench. He looked at his watch again.
 
@@ -215,7 +216,7 @@ Weisell pocketed the earring and realized it meant filling out another form. He 
 
 The time, as usual, was stuck at 10:32.
 
-----
+---- 
 
 For nearly a year, the clock in the Broken Clock Tower had neither ticked nor tocked. Every day, people wrote new complaints about the Broken Clock to the mayor, and every week the mayor’s secretary bundled the complaints together and forwarded them to the Master Clockmaker.
 
@@ -293,7 +294,7 @@ And every evening when he returned home from the work he had not completed, the 
 
 He kept his eyes on the floor and his fingers crossed behind his back, and he thought: Tomorrow, I have to fix everything.
 
-----
+---- 
 
 Detective Weisell stared at the Broken Clock Tower. The time was still stuck at 10:32.
 
