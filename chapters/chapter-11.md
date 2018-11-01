@@ -49,7 +49,7 @@ It was difficult to tell. What he needed was a simple and plain explanation of h
 
 Edward imagined arriving at the Park and seeing Frances at the base of the Statue of the Lost Poet. In his imagination, she held two flags and signaled:
 
-I F E E L T H E S A M E
+<span class="smcp">I F E E L T H E S A M E</span>
 
 This, he thought, seemed unlikely. He didn’t even know how to read semaphore signals.
 
