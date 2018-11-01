@@ -39,7 +39,8 @@ hr { background: transparent; border: 0; margin: 2rem 0 3.5rem 0; padding: 0; }
 hr::after { content: '⁂'; display: block; line-height: 1.5; text-align: center; font-size: 100%; }
 .smcp { font-variant-caps: small-caps;text-transform: lowercase; font-style: normal; }
 .mark { max-width: 50px; max-height: 100%; margin: 3.0rem 0 0 .5rem; }
-
+.center { text-align: center; }
+.block { display: block; }
 
 /* Menu
    ========================================================================== */
