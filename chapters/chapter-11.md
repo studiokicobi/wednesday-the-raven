@@ -2,7 +2,7 @@
 layout: chapter
 title: Wednesday the Raven
 chapterTitle: Chapter Eleven
-chapterSubtitle: Edward's Story
+chapterSubtitle: Edward’s Story
 prevChapter: /chapter-10/
 permalink: /chapter-11/
 ---
