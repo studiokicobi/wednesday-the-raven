@@ -5,6 +5,7 @@ chapterTitle: Chapter Ten
 chapterSubtitle: The Tower Entrance
 prevChapter: /chapter-09/
 permalink: /chapter-10/
+nextChapter: /chapter-11/
 ---
 
 Ella sat in a treetop and watched the Broken Clock Tower and waited.
