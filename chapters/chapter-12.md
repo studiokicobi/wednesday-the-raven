@@ -249,11 +249,11 @@ In the first cage, her mother stood and stared at her with sad brown eyes.
 
 Ella let out her breath slowly. Her heart pounded. She turned carefully back to the raven.
 
-<span class="smcp">RUN AWAY.
+RUN AWAY.
 
 RUN AWAY.
 
-RUN AWAY.</span>
+RUN AWAY.
 
 Wednesday smiled. Her deep, and now dangerous eyes opened wide.
 
