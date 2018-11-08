@@ -5,6 +5,7 @@ chapterTitle: Chapter Eleven
 chapterSubtitle: Edward’s Story
 prevChapter: /chapter-10/
 permalink: /chapter-11/
+nextChapter: /chapter-12/
 ---
 
 One of the challenges when explaining your life story is knowing where to begin. You could always say _I was born here, and I grew up there_--but what if some later event dropped down and exploded and shattered your life into a jillion tiny pieces? In that case, you might say:
@@ -65,7 +66,7 @@ What the situation called for, he decided, was a man of action.
 
 Edward wasn’t entirely sure if that meant him.
 
-----
+---- 
 
 Detective Weisell and Edward sat on a park bench. Edward fell silent. Weisell waited.
 
@@ -91,7 +92,7 @@ Weisell told him.
 Weisell nodded.
 I knew that, he thought. Maybe I’m not such a bad detective after all.
 
-----
+---- 
 
 Edward and Frances met again in the afternoon and walked past the Statue of the Lost Poet and around the Chattering Pond. Frances thought Edward seemed nervous. She wondered if there was a problem.
 
@@ -191,7 +192,7 @@ Frances leapt to her feet and ran. She shouted, “I’m never coming to this Pa
 
 Frances had not entered the Park again. She occasionally walked near, and sometimes around the Park, but never passed through. Edward watched her as she skirted around the fence, and he hid himself when she neared--although it was unlikely she would recognize him. He now wore a long beard, and his clothes had grown dirty and ragged from sleeping outside on the ground. Edward had decided that if Frances wouldn’t enter the Park, he would never leave. He would stay and search day and night without pause, and he wouldn’t stop until he found the ring and made things right. But even after searching every day of every week of every month for nearly a year, he still hadn’t found it. He hadn’t made things right, and lately he had realized he was running out of places to search.
 
-----
+---- 
 
 That, thought Detective Weisell, was a very sad story.
 
