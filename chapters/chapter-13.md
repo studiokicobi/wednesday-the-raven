@@ -84,9 +84,9 @@ Madame Alouette sniffed. “Who is this ear-wishing What’s-Her-Name?” she sa
 
 Detective Weisell took out his notepad and wrote:
 
-_Earring, Wilhelmina Something. _
+_Earring, Wilhelmina Something._
 
-_Actual name? _
+_Actual name?_
 
 _Why doesn’t she like cake?_
 
