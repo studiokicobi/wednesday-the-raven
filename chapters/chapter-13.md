@@ -117,6 +117,7 @@ In her heart, Wilhelmina longed for something more, but her calendar had no room
 Many of these events took place at the Bird House, where Wilhelmina would meet and greet and smile and laugh and do her best to appear one hundred percent normal as she ordered tea and cake along with everyone else. And because Wilhelmina did not wish to remember the many things she wanted to but believed she could not do, she no longer ate Zhao’s cake. Instead, she made a fuss out of feeding her cake to Mildred, her miniature poodle.
 
 “Why don’t you nibble a little cake for poor Wilhelmina,” she said to Mildred. “Nibble, nibble.”
+
 Because Mildred spent so much time eating Zhao’s cakes and reflecting on her past (fifty-six in dog years), she had an unusually calm and placid disposition.
 
 “She’s like a little philosopher,” people said. “A curly-haired monk with a thousand mile stare. A four-legged Buddha.”
