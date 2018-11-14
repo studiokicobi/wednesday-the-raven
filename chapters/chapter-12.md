@@ -5,6 +5,7 @@ chapterTitle: Chapter Twelve
 chapterSubtitle: Inside the Tower
 prevChapter: /chapter-11/
 permalink: /chapter-12/
+nextChapter: /chapter-13/
 ---
 
 Inside the Tower, everything appeared much larger than Ella had expected. As Ella and Wednesday passed through through the entrance, the first thing Ella saw was the complicated machinery that powered the clock. A large assortment of dusty gears and pulleys connected in a vast puzzle in the center of the room. The apparatus reached high above them and into the shadows. Closer to the floor, a wooden peg stuck out from between the cogs of two large gears. Ella stared at the peg. It appeared to be a pawn from a chess set.
