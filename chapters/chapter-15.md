@@ -139,7 +139,7 @@ She marched toward Ella.
 
 “As there aren’t enough cages,” said Wednesday, “you will stay, and your mother will go.”
 
-“No,” said Ella. “I won’t let you. I--”
+“No,” said Ella. “I won’t let you. I—”
 
 Wednesday knocked her aside. Ella tumbled backward and struck her head on the floor and lay there groggy and dazed.
 
@@ -167,7 +167,7 @@ She turned back to Ella’s mother.
 
 Ella’s mother backed into the corner of her cage.
 
-“No!” cried Ella--but it was too late. Her mother’s eyes already followed the swinging watch, and her frightened expression grew blank.
+“No!” cried Ella—but it was too late. Her mother’s eyes already followed the swinging watch, and her frightened expression grew blank.
 
 “I will begin to count,” said Wednesday, “and by the time I reach thirteen you will be fast asleep.”
 

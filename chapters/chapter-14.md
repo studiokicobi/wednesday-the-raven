@@ -16,7 +16,7 @@ Detective Weisell had known he wanted to be a detective since he was seven years
 
 When his parents failed to respond with the proper amount of enthusiasm, he patiently stood before them and listed the reasons why the job of detective would be ideal for him.
 
-“I am curious,” he said, “methodical, observant, logical, conscientious, and patient. I’m not too gullible--”
+“I am curious,” he said, “methodical, observant, logical, conscientious, and patient. I’m not too gullible—”
 
 “Okay, okay,” said his parents. “You can be a detective.”
 
@@ -111,7 +111,7 @@ I don’t feel good, he thought. I am not a good detective.
 
 “Rook, like the chess piece.”
 
-“Name: Rook. Location--where does he live?”
+“Name: Rook. Location—where does he live?”
 
 “The Park,” said Weisell. “He sleeps beneath the Broken Clock Tower. He searches for something he has lost. He has searched every day of every week of every month for nearly a year and still not found it.”
 
@@ -131,7 +131,7 @@ Weisell stood up.
 
 “The evidence is all around you,” said the Chief. “You said he had a piece of gold jewelry on him when you investigated him this morning. You said the jewelry was stolen from a socialite. You said there was a break-in at the Teahouse.”
 
-“I didn’t say--”
+“I didn’t say—”
 
 “It’s an open and shut case,” said the Chief.
 
