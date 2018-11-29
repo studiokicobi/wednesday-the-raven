@@ -5,7 +5,7 @@ chapterTitle: Chapter Thirteen
 chapterSubtitle: Riddles & Answers
 prevChapter: /chapter-12/
 permalink: /chapter-13/
-nextChapter:
+nextChapter: /chapter-14/
 ---
 
 In the Bird House, Madame Alouette lumbered over to Detective Weisell and plopped down beside him. Weisell moved his chair to make room for the baker. Ming Zhao brought tea and cake and placed the food before the detective and bowed. He took a seat and waited.
