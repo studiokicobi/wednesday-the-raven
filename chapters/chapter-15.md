@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: Wednesday the Raven
-chapterTitle: Chapter Twelve
+chapterTitle: Chapter Fifteen
 chapterSubtitle: Prisoners
 prevChapter: /chapter-14/
 permalink: /chapter-15/
@@ -262,4 +262,3 @@ Ella’s mother listened as she marched slowly away with her eyes blank and her 
 That reminds me of something, she thought. What could it be?
 
 And then Wednesday nudged her, and she flew from the Tower and out into the Park and didn’t look back.
-
