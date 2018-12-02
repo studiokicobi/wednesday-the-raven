@@ -1,0 +1,412 @@
+#menu {
+  font-family: $sans;
+  font-weight: 700;
+  letter-spacing: 0.05rem;
+  margin-top: 58px;
+  width: 100%;
+  font-size: 0.5rem;
+  text-align: center;
+  display: block;
+}
+
+nav {
+  font-size: 1.25rem;
+  text-align: left !important;
+  padding: 2rem 2rem 10rem 2rem;
+  border-top: 70px solid rgba($black, 0.2);
+  letter-spacing: 0;
+}
+
+// -----------------------------------------------------------------------------
+// Max 414
+
+@media (max-width: 414px) {
+  #menu {
+    font-size: 8px;
+    letter-spacing: 0.02rem;
+    margin-top: 47px;
+    width: 55px;
+  }
+
+  nav {
+    border-top: 55px solid $light-grey-2;
+  }
+}
+// -----------------------------------------------------------------------------
+
+.menu-heading {
+  text-align: left;
+  margin: 1rem 0 2rem 0;
+}
+
+.credits {
+  font-size: 80%;
+  margin-top: 1.5rem;
+  font-style: italic;
+}
+
+ul.prev-next {
+  width: 100%;
+  display: block;
+  font-size: 0.9rem;
+  margin: 3rem 0 1.5rem 0;
+  height: 1rem;
+
+  li {
+    display: inline;
+
+    .prev {
+      float: left;
+    }
+
+    .next {
+      float: right;
+    }
+
+    a {
+      font-size: 0.8rem;
+    }
+  }
+}
+
+.about {
+  margin-bottom: 1rem;
+}
+
+.acknowledgements {
+  margin-top: 1rem;
+}
+
+/*-----------------------------------------------------------------------------
+   Push nav
+   Pure Drawer CSS
+   Developed by Thomas Wilthil https://www.linkedin.com/profile/view?id=21545731
+   https://mac81.github.io/pure-drawer/
+   https://github.com/mac81/pure-drawer/tree/master/src
+-----------------------------------------------------------------------------*/
+
+// Container
+.pure-container {
+  position: relative;
+  height: 100%;
+  -webkit-overflow-scrolling: touch;
+}
+
+// Toggle
+.pure-toggle {
+  left: -9999px;
+  position: absolute;
+  top: -9999px;
+  &:focus ~ .pure-toggle-label {
+    color: $anchor-color-2;
+  }
+}
+
+.pure-toggle-label {
+  color: $white; // Hamburger text color
+  background: $anchor-color-2; // Hamburger bg color
+  display: none;
+  cursor: pointer;
+  display: block;
+  position: fixed;
+  top: -10px;
+  z-index: 99;
+  width: 75px;
+  height: 80px;
+  transition: all 0.15s ease-in-out;
+  border: 0;
+  border-radius: 0;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+
+  &:hover {
+    background: $text-color; // Hamburger hover bg color
+    color: $white;
+
+    .pure-toggle-icon {
+      background-color: $white;
+
+      &:before,
+      &:after {
+        background-color: $white;
+      }
+    }
+  }
+  &:active {
+    -webkit-tap-highlight-color: transparent;
+  }
+  .pure-toggle-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 2px;
+    width: 28px;
+    cursor: pointer;
+    background: $white; // Hamburger lines
+    display: block;
+    content: "";
+    transition: all 300ms ease-in-out;
+
+    &:before,
+    &:after {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      height: 2px;
+      width: 28px;
+      cursor: pointer;
+      background: $white; // Hamburger lines
+      display: block;
+      content: "";
+      transition: all 300ms ease-in-out;
+    }
+    transform: translate3d(-50%, -2px, 0);
+
+    &:before {
+      transform: translate3d(-50%, -9px, 0);
+    }
+
+    &:after {
+      transform: translate3d(-50%, 7px, 0);
+    }
+  }
+
+  &[data-toggle-label="right"] {
+    right: 0;
+    left: auto;
+  }
+}
+
+.pure-toggle[data-toggle="right"]:checked ~ .pure-toggle-label {
+  &:not([data-toggle-label="right"]) {
+    opacity: 0;
+    z-index: -1;
+  }
+  &[data-toggle-label="right"] {
+    border-color: $black;
+    color: $white; // Hamburger text active color
+
+    .pure-toggle-icon {
+      background-color: transparent;
+
+      &:before,
+      &:after {
+        top: 0;
+      }
+
+      &:before {
+        transform: translateX(-50%) rotate(45deg);
+      }
+
+      &:after {
+        transform: translateX(-50%) translateY(-10px) rotate(-45deg);
+        top: 10px;
+      }
+    }
+  }
+}
+
+// Drawer
+.pure-drawer {
+  overflow: scroll;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  height: 100%;
+  visibility: hidden;
+  background-color: $white;
+  transition-property: all 500ms ease-out;
+  width: 100%;
+
+  a,
+  :link,
+  :active,
+  :visited {
+    font-weight: bold;
+    border-bottom: none;
+  }
+
+  a:hover {
+    color: $text-color;
+  }
+
+  &[data-position="right"] {
+    left: auto;
+    right: 0;
+  }
+}
+
+@media only screen and (min-width: 40.063em) {
+  .pure-drawer {
+    width: 300px;
+  }
+}
+
+@media only screen and (min-width: 64.063em) {
+  .pure-drawer {
+    width: 300px;
+  }
+}
+
+// Pusher Container
+.pure-pusher-container {
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+}
+
+// Pusher
+.pure-pusher {
+  position: relative;
+  height: 100%;
+  overflow-y: auto;
+  left: 0;
+  z-index: 2;
+  background-color: transparent;
+  transition: transform 500ms ease-out;
+}
+
+// Pusher Overlay
+.pure-overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  background-color: rgba($black, 0.75);
+  transition: opacity 200ms ease-in-out 200ms;
+}
+
+.pure-toggle[data-toggle="right"]:checked
+  ~ .pure-overlay[data-overlay="right"] {
+  right: 100%;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  z-index: 2;
+}
+
+@media only screen and (min-width: 40.063em) {
+  .pure-toggle[data-toggle="right"]:checked
+    ~ .pure-overlay[data-overlay="right"] {
+    right: 300px;
+  }
+}
+
+@media only screen and (min-width: 64.063em) {
+  .pure-toggle[data-toggle="right"]:checked
+    ~ .pure-overlay[data-overlay="right"] {
+    right: 300px;
+  }
+}
+
+// Fallback for older browsers
+.no-csstransforms3d
+  .pure-toggle[data-toggle="right"]:checked
+  ~ .pure-pusher-container
+  .pure-pusher {
+  left: -100%;
+}
+
+@media only screen and (min-width: 40.063em) {
+  .no-csstransforms3d
+    .pure-toggle[data-toggle="right"]:checked
+    ~ .pure-pusher-container
+    .pure-pusher {
+    left: -300px;
+  }
+}
+
+@media only screen and (min-width: 64.063em) {
+  .no-csstransforms3d
+    .pure-toggle[data-toggle="right"]:checked
+    ~ .pure-pusher-container
+    .pure-pusher {
+    left: -300px;
+  }
+}
+
+// Effect - Push
+// Drawer
+
+[data-effect="pure-effect-push"] {
+  .pure-drawer {
+    transition-duration: 325ms;
+    &[data-position="right"] {
+      transform: translate3d(100%, 0, 0);
+    }
+  }
+  .pure-toggle[data-toggle="right"]:checked
+    ~ .pure-drawer[data-position="right"] {
+    visibility: visible;
+    transform: translate3d(0, 0, 0);
+  }
+  .pure-pusher-container .pure-pusher {
+    transition-duration: 450ms;
+  }
+  .pure-toggle[data-toggle="right"]:checked
+    ~ .pure-pusher-container
+    .pure-pusher {
+    transform: translate3d(-100%, 0, 0);
+  }
+  .pure-overlay {
+    transition-duration: 500ms;
+    transition-delay: 250ms;
+  }
+}
+
+// PUSHER
+@media only screen and (min-width: 40.063em) {
+  [data-effect="pure-effect-push"]
+    .pure-toggle[data-toggle="right"]:checked
+    ~ .pure-pusher-container
+    .pure-pusher {
+    transform: translate3d(-300px, 0, 0);
+  }
+}
+
+@media only screen and (min-width: 64.063em) {
+  [data-effect="pure-effect-push"]
+    .pure-toggle[data-toggle="right"]:checked
+    ~ .pure-pusher-container
+    .pure-pusher {
+    transform: translate3d(-300px, 0, 0);
+  }
+}
+
+// OVERLAY
+[data-effect="pure-effect-push"] .pure-overlay {
+  transition-duration: 500ms;
+  transition-delay: 250ms;
+}
+
+// -----------------------------------------------------------------------------
+// Max 414
+
+@media (max-width: 414px) {
+  // Menu button
+  .pure-toggle-label {
+    width: 55px;
+    height: 65px;
+
+    .pure-toggle-icon {
+      width: 24px;
+
+      &:before,
+      &:after {
+        width: 24px;
+      }
+
+      &:before {
+        transfrom: translate3d(-50%, -9px, 0);
+      }
+      &:after {
+        transform: translate3d(-50%, 7px, 0);
+      }
+    }
+  }
+}
+// -----------------------------------------------------------------------------

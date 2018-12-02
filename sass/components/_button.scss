@@ -1,0 +1,36 @@
+button,
+.button {
+  font-family: $sans;
+  font-weight: 700 !important;
+  font-size: 0.75rem;
+  color: $white !important;
+  background: $anchor-color-2;
+  border: 0 !important;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+  margin-top: 0.8rem;
+  display: inline-block;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  padding: 0.5rem 0.75rem 0.45rem;
+  line-height: 1.5;
+  transition: background-color 0.15s ease-in-out;
+  cursor: pointer;
+
+  &:hover {
+    background: $text-color;
+  }
+}
+
+.button-2 {
+  margin-left: 0.8rem;
+}
+
+.chapter-buy {
+  margin-top: 1.5rem;
+}
