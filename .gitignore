@@ -2,7 +2,7 @@ _site/
 .DS_Store
 .Ulysses-favorites.plist
 .Ulysses-Group.plist
-# config.codekit3
+config.codekit3
 
 .sass-cache/
 .jekyll-cache/
