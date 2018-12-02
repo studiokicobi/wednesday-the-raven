@@ -1,4 +1,4 @@
-// Deprecated styles temporarily stored here.
+// Deprecated styles.
 // This file is not parsed into <main.css>.
 
 .cover {
@@ -10,17 +10,6 @@
   background: rgba($black, 0.05);
   height: 95%;
   width: 95%;
-}
-
-#info {
-  text-align: justify;
-  font-size: 0.95rem;
-  max-width: 360px;
-  margin: 0 auto;
-  padding: 1.5rem;
-  background: $white;
-  text-indent: 0;
-  max-width: 68ch;
 }
 
 .sm-res {
@@ -48,10 +37,6 @@
   h4.sm-res {
     font-size: 1.25rem;
     margin: 0;
-  }
-
-  .pure-drawer {
-    background-color: rgba($white, 1);
   }
 }
 
