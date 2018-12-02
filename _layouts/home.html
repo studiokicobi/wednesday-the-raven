@@ -1,43 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>{{ page.title }}</title>
-	{%- include head.html -%}
+{%- include head.html -%}
 
 <body class="chapter">
 
-{%- include nav.html -%}
+  {%- include nav.html -%}
 
-	<div class="pure-pusher-container">
-		<div class="pure-pusher flex-grid">
-			<div class="flex-item flex-item-1" style="flex-direction:column;">
-				<img src="{{ "/images/bird-cage.png" | prepend: site.baseurl }}" alt="Bird cage">
-				<h1 class="normal">Wednesday the Raven</h1>
-				<h2 class="normal author"><em>by</em> Colin Lewis</h2>
-				{%- include preorder-buy-button.html -%}
-			</div>
+  <div class="pure-pusher-container">
+    <div class="pure-pusher flex-grid">
+      <div class="flex-item flex-item-1" style="flex-direction:column;">
+        <img src="{{ "/images/bird-cage.png" | prepend: site.baseurl }}" alt="Bird cage">
+        <h1 class="normal">Wednesday the Raven</h1>
+        <h2 class="normal author"><em>by</em> Colin Lewis</h2>
+        {%- include preorder-buy-button.html -%}
+      </div>
 
-			<div class="flex-item flex-item-2">
-				<article>
-					<h3>Editing a novel in public</h3>
-									<span class="hedera">&#10087;</span>
-									<h4><em>About this project</em></h4>
+      <div class="flex-item flex-item-2">
+        <article>
+          <h3>Editing a novel in public</h3>
+          <span class="hedera">&#10087;</span>
+          <h4><em>About this project</em></h4>
 
-									<p>This is an experiment. For thirty-odd weeks, I’ll publish chapters from this children's novel, review and rewrite the texts, and reflect aloud on the processes and vagaries of writing and editing.</p>
-									<p>Curious? Check the <a href="https://unlikelyobjects.com/wednesday-the-raven/">project page</a> for more information, chapter reviews, project notes, and instructions on how to submit suggestions and edits. (And <a href="https://mailchi.mp/f277c9e1aba1/wednesday-the-raven-updates" target="_blank">subscribe</a> to updates.)</p>
-									<p>If you've only just arrived, the best thing might be to skip all this and simply dive into the story—probably starting at the beginning, <a href="/chapter-01/">Chapter One</a>.</p>
+          <p>This is an experiment. For thirty-odd weeks, I’ll publish chapters from this children's novel, review and rewrite the texts, and reflect aloud on the processes and vagaries of writing and editing.</p>
+          <p>Curious? Check the <a href="https://unlikelyobjects.com/wednesday-the-raven/">project page</a> for more information, chapter reviews, project notes, and instructions on how to submit suggestions and edits. (And <a href="https://mailchi.mp/f277c9e1aba1/wednesday-the-raven-updates"
+              target="_blank">subscribe</a> to updates.)</p>
+          <p>If you've only just arrived, the best thing might be to skip all this and simply dive into the story—probably starting at the beginning, <a href="/chapter-01/">Chapter One</a>.</p>
 
-									<p id="copyright">&copy; 2018 Colin Lewis &middot; Brought to you by <a href="https://unlikelyobjects.com" title="Unlikely Objects" target="blank">Unlikely Objects</a></p>
+          <p id="copyright">&copy; 2018 Colin Lewis &middot; Brought to you by <a href="https://unlikelyobjects.com" title="Unlikely Objects" target="blank">Unlikely Objects</a></p>
 
-									</article>
+        </article>
 
 
-								</div>
-							</div><!-- /.pure-pusher -->
-						</div><!-- /.pure-pusher-container -->
+      </div>
+    </div><!-- /.pure-pusher -->
+  </div><!-- /.pure-pusher-container -->
 
-						<label class="pure-overlay" for="pure-toggle-right" data-overlay="right"></label>
-					</div>
+  <label class="pure-overlay" for="pure-toggle-right" data-overlay="right"></label>
+  </div>
 
 </body>
+
 </html>
