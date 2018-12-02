@@ -27,9 +27,7 @@ blockquote {
 h1,
 h2,
 h3,
-h4,
-h5,
-h6 {
+h4 {
   margin-top: 0;
   font-weight: normal;
 }
@@ -85,11 +83,6 @@ p {
   text-align: justify;
 }
 
-/* body.chapter  */
-.flex-item-2 article p:first-of-type:first-of-type {
-  text-indent: 0;
-}
-
 .normal {
   font-weight: normal;
 }
@@ -103,7 +96,8 @@ p {
   margin: 0;
 }
 
-/* .chapters { text-transform: lowercase; font-variant-caps: small-caps; } */
+// .chapters { text-transform: lowercase; font-variant-caps: small-caps; }
+
 .chapters em {
   text-transform: none;
   font-variant-caps: normal;
@@ -114,14 +108,14 @@ p {
   clear: both;
   text-align: right;
   text-indent: 0;
-  margin: 3.5rem 0 0 0;
+  margin: 3.5rem 0 0.5rem 0;
   font-family: $sans;
   font-weight: 700;
 
   a {
     border-bottom: 1px solid $light-grey-3;
 
-    &:hover {
+    @include on-event {
       color: $black !important;
       border-bottom: 1px solid $light-grey-4 !important;
     }
@@ -136,6 +130,7 @@ p {
   letter-spacing: 0.03rem !important;
 }
 
+// Asterism
 hr {
   background: transparent;
   border: 0;
@@ -151,6 +146,7 @@ hr {
   }
 }
 
+// Small-caps
 .smcp {
   font-variant-caps: small-caps;
   text-transform: lowercase;
@@ -168,26 +164,43 @@ hr {
 }
 
 // Drop cap
-// body.chapter
-.flex-item-2 article p:first-of-type:first-letter {
-  color: $text-color;
-  float: left;
-  font-size: 5.7rem;
-  line-height: 5.15rem;
-  padding-top: 0px;
-  padding-right: 8px;
-  padding-left: 0px;
-  margin: -1px -5px -10px -5px;
-  text-indent: 0;
+.flex-item-2 {
+  article {
+    p:first-of-type {
+      text-indent: 0;
+
+      &:first-letter {
+        color: $text-color;
+        float: left;
+        font-size: 5.7rem;
+        line-height: 5.15rem;
+        padding-top: 0px;
+        padding-right: 8px;
+        padding-left: 0px;
+        margin: -1px -5px -10px -5px;
+        text-indent: 0;
+      }
+    }
+  }
 }
 
 // Remove drop cap styles for ol
-.flex-item-2 article ol li p:first-of-type:first-letter {
-  color: default;
-  float: none;
-  font-size: 1.05rem;
-  line-height: 1.5;
-  padding: 0;
-  margin: 0;
-  text-indent: none;
+.flex-item-2 {
+  article {
+    ol {
+      li {
+        p:first-of-type {
+          &first-letter {
+            color: default;
+            float: none;
+            font-size: 1.05rem;
+            line-height: 1.5;
+            padding: 0;
+            margin: 0;
+            text-indent: none;
+          }
+        }
+      }
+    }
+  }
 }

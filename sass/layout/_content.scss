@@ -31,32 +31,17 @@
 
   article {
     max-width: 68ch;
-    padding: 0 50px;
+    padding: 0 50px 1vh 50px;
+    margin: 15vh auto auto;
   }
 }
 
 @media (max-width: 1100px) {
-  .flex-item-2 article blockquote {
-    font-size: 2.2rem;
-  }
-}
-
-body.home {
-  .flex-item-1 {
-    flex-direction: row;
-  }
-
-  .flex-item-2 {
-    justify-content: center;
-    align-items: center;
-  }
-}
-
-body.chapter {
   .flex-item-2 {
     article {
-      margin: 15vh auto auto;
-      padding-bottom: 1vh;
+      blockquote {
+        font-size: 2.2rem;
+      }
     }
   }
 }
@@ -67,37 +52,28 @@ body.chapter {
 @media (max-width: 992px) {
   .flex-grid {
     flex-direction: column;
-  }
 
-  .flex-item {
-    width: 100%;
-  }
-
-  .flex-item-1 {
-    justify-content: center;
-    align-items: center;
-    background: $off-white-1;
-    box-shadow: 0px 0px 40px 0px rgba($black, 0.2);
-  }
-
-  body.home .flex-item-1 {
-    justify-content: center;
-  }
-
-  .flex-item-2 {
-    align-items: center;
-    padding-top: 50px;
-    overflow: visible;
-
-    article {
-      margin: 0 auto;
-      padding-bottom: 50px;
+    .flex-item {
+      width: 100%;
     }
-  }
 
-  body.chapter .flex-item-2 article {
-    margin: 10vh auto auto auto;
-    padding-bottom: 2vh;
+    .flex-item-1 {
+      justify-content: center;
+      align-items: center;
+      background: $off-white-1;
+      box-shadow: 0px 0px 40px 0px rgba($black, 0.2);
+    }
+
+    .flex-item-2 {
+      align-items: center;
+      padding-top: 50px;
+      overflow: visible;
+
+      article {
+        margin: 10vh auto auto auto;
+        padding-bottom: 2vh;
+      }
+    }
   }
 }
 
@@ -105,8 +81,12 @@ body.chapter {
 // Max 414
 
 @media (max-width: 414px) {
-  .flex-item-2 article blockquote {
-    font-size: 1.6rem;
+  .flex-item-2 {
+    article {
+      blockquote {
+        font-size: 1.6rem;
+      }
+    }
   }
 }
 
@@ -117,9 +97,11 @@ body.chapter {
   .flex-item-2 {
     padding-top: 10rem;
 
-    article blockquote {
-      font-size: 1.4rem;
-      line-height: 1.7rem;
+    article {
+      blockquote {
+        font-size: 1.4rem;
+        line-height: 1.7rem;
+      }
     }
   }
 }

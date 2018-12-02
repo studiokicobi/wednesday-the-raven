@@ -1,14 +1,14 @@
 <img class="mark" src="{{ "/images/bird_02.png" | prepend: site.baseurl }}" alt="Wednesday the Raven cover">
 
-<nav role="navigation" class="prev-next-nav">
+<nav role="navigation" class="prev-next-nav clearfix">
   <ul>
     {% if page.prevChapter %}<li><a href="{{ page.prevChapter }}">Previous chapter</a></li>{% endif %}
     {% if page.nextChapter %}<li><a href="{{ page.nextChapter }}">Next chapter</a></li>{% endif %}
     <li class="toc">
       <input type="checkbox" id="footer-toc" class="pure-toggle" data-toggle="right" />
-        <label class="" for="pure-toggle-right" data-toggle-label="right">
-          <a>Table of Contents</a>
-        </label>
+      <label class="" for="pure-toggle-right" data-toggle-label="right">
+        <a>Table of Contents</a>
+      </label>
     </li>
   </ul>
 </nav>
