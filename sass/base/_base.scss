@@ -26,6 +26,12 @@ a:visited {
   border-bottom: 1px solid $light-grey-4;
 }
 
+a:hover,
+a:active,
+a:focus {
+  color: $black;
+}
+
 ul {
   list-style-type: none;
   padding: 0;
@@ -38,7 +44,8 @@ ul {
 
 @media screen and (prefers-reduced-motion: reduce) {
   a,
-  button {
+  button,
+  .button {
     transition: none;
   }
 }
