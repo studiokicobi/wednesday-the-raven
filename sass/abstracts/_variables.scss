@@ -8,17 +8,12 @@
 
 /// Serif font stack
 /// @type List
-$serif: "et-book", "Hoefler Text", "Baskerville Old Face", "Times New Roman",
-  serif !default;
+$serif: "et-book", "Palatino", "Palatino Linotype", "Palatino LT STD",
+  "Book Antiqua", "Georgia", serif !default;
 
 /// Sans font stack
 /// @type List
-$sans: "Lato", "Geneva", "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode",
-  "Verdana", sans-serif !default;
-
-/// Code (monospace) font family
-/// @type List
-/// $code-font-stack: 'Courier New', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Monaco', monospace !default;
+$sans: "Lato", "Gill Sans", "Gill Sans MT", "Calibri", sans-serif !default;
 
 // -----------------------------------------------------------------------------
 /// @type Color
