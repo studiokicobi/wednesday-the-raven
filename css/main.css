@@ -599,7 +599,6 @@ hr {
 .flex-item-2 article p:first-of-type {
   text-indent: 0; }
   .flex-item-2 article p:first-of-type:first-letter {
-    color: #222;
     float: left;
     font-size: 5.7rem;
     line-height: 5.15rem;
@@ -609,14 +608,13 @@ hr {
     margin: -1px -5px -10px -5px;
     text-indent: 0; }
 
-.flex-item-2 article ol li p:first-of-typefirst-letter {
-  color: default;
-  float: none;
-  font-size: 1.05rem;
-  line-height: 1.5;
-  padding: 0;
-  margin: 0;
-  text-indent: none; }
+ol p:first-letter {
+  float: none !important;
+  font-size: 1.05rem !important;
+  line-height: 1.5 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  text-indent: none !important; }
 
 /**
  * Clear inner floats
