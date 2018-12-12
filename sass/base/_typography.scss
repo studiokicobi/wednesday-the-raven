@@ -170,7 +170,6 @@ hr {
       text-indent: 0;
 
       &:first-letter {
-        color: $text-color;
         float: left;
         font-size: 5.7rem;
         line-height: 5.15rem;
@@ -185,22 +184,13 @@ hr {
 }
 
 // Remove drop cap styles for ol
-.flex-item-2 {
-  article {
-    ol {
-      li {
-        p:first-of-type {
-          &first-letter {
-            color: default;
-            float: none;
-            font-size: 1.05rem;
-            line-height: 1.5;
-            padding: 0;
-            margin: 0;
-            text-indent: none;
-          }
-        }
-      }
-    }
+ol {
+  p:first-letter {
+    float: none !important;
+    font-size: 1.05rem !important;
+    line-height: 1.5 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    text-indent: none !important;
   }
 }
