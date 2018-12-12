@@ -1,29 +1,29 @@
-
 ---
 layout: chapter
 title: Wednesday the Raven
 chapterTitle: Chapter Sixteen
 chapterSubtitle: Wednesday, Collector
+prevChapter: /chapter-15/
 permalink: /chapter-16/
 nextChapter: /chapter-17/
 ---
 
 
-Wednesday watched the sparrow disappear. 
+Wednesday watched the sparrow disappear.
 
 That, she thought, takes care of that.
 
-She peered cautiously from the entrance at the top of Tower. No one saw her. Nothing stirred except a squirrel who sat in a distant tree. 
+She peered cautiously from the entrance at the top of Tower. No one saw her. Nothing stirred except a squirrel who sat in a distant tree.
 
-The squirrel sat and stared at the acorn he held in his paws. 
+The squirrel sat and stared at the acorn he held in his paws.
 
-Beautiful acorn, thought the squirrel, I know I must hide you--but what if I never find you again? 
+Beautiful acorn, thought the squirrel, I know I must hide you--but what if I never find you again?
 
 The squirrel sighed.
 
 I think I will hold you just a little longer, he thought.
 
-The raven stepped off the shelf and into the air. She soared up high and followed the treetops and hid herself above their leafy crowns--although, she thought, who would ever see her? 
+The raven stepped off the shelf and into the air. She soared up high and followed the treetops and hid herself above their leafy crowns--although, she thought, who would ever see her?
 
 People are terribly unobservant, she thought. And careless.
 
@@ -33,15 +33,15 @@ Inside the window, a large black cat opened its eyes wide in surprise, reared ba
 
 Today, thought Wednesday, is an unusually good day.
 
-Some days, everything can happen. 
+Some days, everything can happen.
 
 First the blue-covered book, she thought, and now the blue-eyed sparrow. I knew I found my home when I arrived at the Tower.
 
-Wednesday observed the shop. 
+Wednesday observed the shop.
 
 Like the Park, the shop also had a long and hard-to-remember name that no one used. No one ever said: _I’m walking to R. J. Fulton & Sons Groceries & Comestibles._ It was enough to say: _I’m going to the store._
 
-Fruit and vegetable bins stood along the sidewalk together with tiers of water-filled buckets packed tight with cut flowers. A large metal rack stood near the entrance. Packages of sweets and chocolates hung from the rack on steel hooks. The fat plastic packages dangled heavy and ripe and swayed gently in the whispering breeze. The sunlight reflected off them in bewitching bright flashes. 
+Fruit and vegetable bins stood along the sidewalk together with tiers of water-filled buckets packed tight with cut flowers. A large metal rack stood near the entrance. Packages of sweets and chocolates hung from the rack on steel hooks. The fat plastic packages dangled heavy and ripe and swayed gently in the whispering breeze. The sunlight reflected off them in bewitching bright flashes.
 
 _Take me!_ they said.
 
@@ -51,15 +51,15 @@ It was time.
 
 Wednesday descended with practiced stealth. She glided gently past the metal rack, and with one nimble, fluid motion lifted a package from its hook in mid-flight. There was a brief sound of rustling plastic, a blink of movement, and then the crime was complete.
 
-No one noticed the raven. 
+No one noticed the raven.
 
 Wednesday flew up and over the buildings and streets and returned to the cover of trees in the Park.
 
-Unobservant and careless, she thought. 
+Unobservant and careless, she thought.
 
----- 
+----
 
-Wednesday landed at the top of a large pine tree in the Park. She disappeared through a dark opening in its crown and moved with easy confidence along a worn, sticky, spiky limb. Inside, the tattered jay waited within the dense tent of branches. 
+Wednesday landed at the top of a large pine tree in the Park. She disappeared through a dark opening in its crown and moved with easy confidence along a worn, sticky, spiky limb. Inside, the tattered jay waited within the dense tent of branches.
 
 Wednesday carefully placed the stolen package behind her and approached the bird.
 
@@ -67,7 +67,7 @@ Wednesday carefully placed the stolen package behind her and approached the bird
 
 She spoke again in rolling, drowsy whispers.
 
-The jay kept his head low as he stepped carefully toward the raven. 
+The jay kept his head low as he stepped carefully toward the raven.
 
 “Did you get a delivery today?” whispered the jay. “Did you get something fine delivered to you?”
 
@@ -81,9 +81,9 @@ The jay kept his head low as he stepped carefully toward the raven.
 
 Wednesday reached behind her and picked up the chocolates stolen from the shop. She tossed the package to the jay.
 
-The jay hopped and grabbed the package from the air and leapt back quickly. 
+The jay hopped and grabbed the package from the air and leapt back quickly.
 
-“That’s all I wanted,” he mumbled. He held the package in his beak as he spoke. “I’m a good bird. I keep watch for you.” 
+“That’s all I wanted,” he mumbled. He held the package in his beak as he spoke. “I’m a good bird. I keep watch for you.”
 
 Wednesday stretched and yawned. The morning’s work had left her tired. Finding her way into the Bird House in the middle of the night had taken more energy than expected.
 
@@ -97,7 +97,7 @@ She stopped, and listened intently.
 
 “Something is different,” said Wednesday. “There is a change in the air. Have you felt it, jaybird? Any news from down below?”
 
-“I don’t know anything,” he whispered. 
+“I don’t know anything,” he whispered.
 
 He shook his head vigorously.
 
@@ -107,61 +107,61 @@ He shook his head vigorously.
 
 “I want you to be absolutely certain when you answer me,” said Wednesday. “Otherwise, I might find myself disappointed.”
 
-The jay shuffled his feet and almost lost his footing. 
+The jay shuffled his feet and almost lost his footing.
 
 “Maybe I could check that about the change,” he whispered.
 
 “Could you?” said Wednesday. “That would be kind of you. What a dear jaybird you are.”
 
-“Maybe I should go,” mumbled the jay. “I can go check for you. But you’ve got the book and the bird and you should be pleased with the jay now. I don’t owe you more feathers.” 
+“Maybe I should go,” mumbled the jay. “I can go check for you. But you’ve got the book and the bird and you should be pleased with the jay now. I don’t owe you more feathers.”
 
-“Really?” said Wednesday. 
+“Really?” said Wednesday.
 
 She leaned forward.
 
 “Because I did everything you asked,” whispered the jay. His words came out in a fast splutter. “I spotted the book and sent you the sparrow and helped you get all those other things and I’ll do all the rest of every single whatever you want.”
 
-“I know you will,” said Wednesday. 
+“I know you will,” said Wednesday.
 
 “I should go,” he whimpered.
 
-“Should you?” said Wednesday. 
+“Should you?” said Wednesday.
 
 “Can I go?” whispered the jay. “May I?”
 
-Wednesday straightened, and smiled. 
+Wednesday straightened, and smiled.
 
 “Of course you can,” she said. “And have a nice day.”
 
-The jay trembled and scuttled away. 
+The jay trembled and scuttled away.
 
-Wednesday stayed inside the shadowed canopy of the pine branches. She scratched at the trunk’s thin brown bark with her long, curved claw and wrote: 
+Wednesday stayed inside the shadowed canopy of the pine branches. She scratched at the trunk’s thin brown bark with her long, curved claw and wrote:
 
-_Wednesday_ 
+_Wednesday_
 
-Something has changed, she thought. 
+Something has changed, she thought.
 
-She wondered if it was a good change or a bad change. 
+She wondered if it was a good change or a bad change.
 
-There was the small matter of the ruby earring she had dropped earlier. Was that the change? No. That was carelessness. Maybe the late nights or the ever-growing collections distracted her. 
+There was the small matter of the ruby earring she had dropped earlier. Was that the change? No. That was carelessness. Maybe the late nights or the ever-growing collections distracted her.
 
-She kept writing: 
+She kept writing:
 
 _Wednesday, Collector_
 
-Maybe she should have kept Ella’s mother instead of discarding her. She could have kept her with the rest of the birds and moved Ella to the blue section of the collection. 
+Maybe she should have kept Ella’s mother instead of discarding her. She could have kept her with the rest of the birds and moved Ella to the blue section of the collection.
 
 Maybe?
 
-Another time, she thought. 
+Another time, she thought.
 
-One can always get another sparrow. 
+One can always get another sparrow.
 
 _Wednesday, Collector of Artifacts &_
 
-Wednesday wondered if she should get more birds. It would be good to have a parrot, she thought, but a small one--not like that green giant she had seen snoring in the Teahouse earlier that morning. Although, she thought, anything was possible. 
+Wednesday wondered if she should get more birds. It would be good to have a parrot, she thought, but a small one--not like that green giant she had seen snoring in the Teahouse earlier that morning. Although, she thought, anything was possible.
 
-Wednesday scratched a long curlicue under the final words: 
+Wednesday scratched a long curlicue under the final words:
 
 _Wednesday, Collector of Artifacts & Extraordinary Ephemera_
 
@@ -173,6 +173,6 @@ I could even capture Ella’s mother again, she thought.
 
 Maybe, and maybe.
 
-Wednesday nodded. It wouldn’t be difficult. For all she knew, that sparrow would find her way back to the Tower all by herself. 
+Wednesday nodded. It wouldn’t be difficult. For all she knew, that sparrow would find her way back to the Tower all by herself.
 
 It could happen, she thought. Sparrows are stubborn little birds. You never know what they will do next.

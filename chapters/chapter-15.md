@@ -5,7 +5,7 @@ chapterTitle: Chapter Fifteen
 chapterSubtitle: Prisoners
 prevChapter: /chapter-14/
 permalink: /chapter-15/
-nextChapter:
+nextChapter: /chapter-16/
 ---
 
 

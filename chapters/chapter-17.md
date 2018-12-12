@@ -1,4 +1,3 @@
-
 ---
 layout: chapter
 title: Wednesday the Raven
@@ -7,7 +6,7 @@ chapterSubtitle: Ella’s Song
 prevChapter: /chapter-16/
 permalink: /chapter-17/
 nextChapter:
---- 
+---
 
 
 Ella’s mother circled the Park without purpose or direction. She stopped to rest beside the Chattering Pond, and inside a thorny bramble, and on top of the canary weathervane, and in a large oak tree filled with squirrels.
