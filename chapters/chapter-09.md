@@ -92,21 +92,21 @@ The detective took out a form to record the suspect’s appearance. He frowned.
 
 Large capital letters at the top of the form read:
 
-A BRIEF DESCRIPTION OF THE SUSPECT
+<span class="smcp">A BRIEF DESCRIPTION OF THE SUSPECT</span>
 
 The detective wrote: Edward Rook. Male, medium height and build. Dark complexion, no glasses. Dirt-colored shirt and frayed gray suit. No hat or tie or scars or jewelry.
 
-WEIGHT:
+<span class="smcp">WEIGHT:</span>
 
 Weisell hated guessing people’s weight. He wrote:
 
-WEIGHT: skinny
+<span class="smcp">WEIGHT: skinny</span>
 
-HAIR: scraggly
+<span class="smcp">HAIR: scraggly</span>
 
-FACIAL HAIR: too much
+<span class="smcp">FACIAL HAIR: too much</span>
 
-CARRYING:
+<span class="smcp">CARRYING:</span>
 
 Detective Weisell paused.
 
