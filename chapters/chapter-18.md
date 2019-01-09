@@ -1,4 +1,3 @@
-
 ---
 layout: chapter
 title: Wednesday the Raven
@@ -17,13 +16,13 @@ The mouse pulled his backpack tighter and continued his climb.
 
 “At any moment,” he said, “a loose foothold could trip the adventurer and leave him hanging on for dear life! The crowd gasped in fear! Would he make it?”
 
-The mouse looked around for a loose foothold. He couldn’t find one, but he did see a short bolt that stuck conveniently from the mortar. The mouse hung from the bolt with one paw and peered down at the base of the Tower. 
+The mouse looked around for a loose foothold. He couldn’t find one, but he did see a short bolt that stuck conveniently from the mortar. The mouse hung from the bolt with one paw and peered down at the base of the Tower.
 
-There was no one there. 
+There was no one there.
 
 He looked around and saw a squirrel who sat on a distant tree branch and watched him. The squirrel held an acorn in his paws.
 
-The mouse waved. 
+The mouse waved.
 
 The squirrel waved back.
 
@@ -39,11 +38,11 @@ He wiggled his whiskers.
 
 “Fortunately,” he said, “our hero prefers to work alone and out of scrutiny of the public eye.”
 
-Hurricane narrowed his own eyes and squinted up at the top of the Tower. He tried to squint as often as he could. He knew that squinting made him look determined and heroic. 
+Hurricane narrowed his own eyes and squinted up at the top of the Tower. He tried to squint as often as he could. He knew that squinting made him look determined and heroic.
 
 It also made it difficult to see, but such is the hero’s burden.
 
----- 
+----
 
 When Hurricane reached the ledge, he pulled himself up and leapt into a crouch position.
 
@@ -51,21 +50,21 @@ When Hurricane reached the ledge, he pulled himself up and leapt into a crouch p
 
 He swung his little backpack around and rummaged through the bag.
 
-“Compass, whistle, and rope,” he said. “Signal mirror, needle, thread, two buttons, unfinished map of the Park, pouch of sunflower seeds, disguise kit with false whiskers and wig, pencil—ah, here it is.” 
+“Compass, whistle, and rope,” he said. “Signal mirror, needle, thread, two buttons, unfinished map of the Park, pouch of sunflower seeds, disguise kit with false whiskers and wig, pencil—ah, here it is.”
 
 He opened his field mouse notes and wrote: _Clock Tower: height approximately 230 tails._
 
-Hurricane looked around. 
+Hurricane looked around.
 
 “A dark entrance presented itself to our explorer,” he said. “What mysterious danger lurked beyond its threshold? There was only one way for a mouse to find out.”
 
-Hurricane ran to the edge of the entrance, pressed himself against the wall and peeked around the corner. 
+Hurricane ran to the edge of the entrance, pressed himself against the wall and peeked around the corner.
 
 No mysterious danger lurked beyond the threshold.
 
-He relaxed and entered the Tower. 
+He relaxed and entered the Tower.
 
-Hurricane walked by wheels, pulleys, automatons, and the other parts that powered the great clock. He passed the grinding wheels that sent out the showers of sparks on New Years Eve. He saw his image in one of the vernal equinox mirrors and saluted his reflection. 
+Hurricane walked by wheels, pulleys, automatons, and the other parts that powered the great clock. He passed the grinding wheels that sent out the showers of sparks on New Years Eve. He saw his image in one of the vernal equinox mirrors and saluted his reflection.
 
 “Looking good,” he said.
 
@@ -77,13 +76,13 @@ Hurricane stopped along the way to examine a group of blue postage stamps and a 
 
 Eventually he found himself in a room filled with cages. Hurricane counted a half dozen cages, and in each cage he saw a different species of bird. He wandered down the row and called out the names of the birds as he passed.
 
-“Sparrow, warbler, chickadee, finch, starling, robin.” 
+“Sparrow, warbler, chickadee, finch, starling, robin.”
 
 He stopped before the robin at the last cage.
 
 “What were these strange beings he saw before him?” said Hurricane. “Were they the prisoners of a foul marauder? Victims of some treacherous scheme? Or were they vicious monsters, locked up in the Tower out of fear for public safety?”
 
-“We’re birds,” said the robin. 
+“We’re birds,” said the robin.
 
 “Right,” said Hurricane. “I can see that. What are you doing here?”
 
@@ -123,7 +122,7 @@ Hurricane made a little fist and shook it in the air.
 
 “Who’s the Tall Phantom?”
 
-“Another of my many adversaries. I have several. There’s Dr. Temporal, The Tall Phantom, Professor Nightmares, and more. I’m an explorer of untamed, unmapped wildernesses like this Tower, and I’ve made a lot of enemies along the way.” 
+“Another of my many adversaries. I have several. There’s Dr. Temporal, The Tall Phantom, Professor Nightmares, and more. I’m an explorer of untamed, unmapped wildernesses like this Tower, and I’ve made a lot of enemies along the way.”
 
 “This isn’t an untamed wilderness,” said the robin. “It’s a tower in a park.”
 
@@ -143,13 +142,13 @@ Hurricane pulled at the cage door.
 
 “I forgot my lock picks,” he said. “Maybe I can use something else. Do you have a paper clip or bobby pin?”
 
-The robin looked around. “No,” he said. “What’s a bobby pin?” 
+The robin looked around. “No,” he said. “What’s a bobby pin?”
 
-“It’s a kind of lock pick you put in your hair,” said Hurricane. 
+“It’s a kind of lock pick you put in your hair,” said Hurricane.
 
 “I don’t have hair,” said the robin.
 
-Hurricane pressed his paws against his temples and scrunched up his face. 
+Hurricane pressed his paws against his temples and scrunched up his face.
 
 “Are you okay?” said the robin.
 
@@ -185,7 +184,7 @@ Hurricane scampered along the row of cages and stopped in front of Ella.
 
 “Greetings, new bird,” he said. “I’m here to save you.”
 
-Ella looked up at the mouse with sad eyes. 
+Ella looked up at the mouse with sad eyes.
 
 “Huh,” said Hurricane. “Would you look at that...scarf. Lovely scarf.”
 
@@ -201,9 +200,9 @@ Hurricane retrieved the key and unlocked Ella’s cage. He took a deep bow.
 
 Ella didn’t answer.
 
-“Anyway,” said Hurricane, “I’ve fixed it so you can go now.” 
+“Anyway,” said Hurricane, “I’ve fixed it so you can go now.”
 
-He pointed toward the exit. 
+He pointed toward the exit.
 
 “Escape and freedom are that way.”
 
@@ -231,21 +230,21 @@ Ella opened her eyes wider.
 
 “You can’t remember how to speak?”
 
-“I can’t remember how to fly,” said Ella. 
+“I can’t remember how to fly,” said Ella.
 
 “Oh, that’s simple,” said Hurricane. “All you have to do is move your wings. You must know. Flying is an instinct for birds, like gnawing. I could never forget how to gnaw.”
 
 He grabbed a short stick that lay nearby and quickly chewed it in half. He spit the splinters on the floor and wiped his mouth.
 
-“See? I’m sure it’s the same for you and flying. It’s easy. Flap, flap, flap.” 
+“See? I’m sure it’s the same for you and flying. It’s easy. Flap, flap, flap.”
 
-Hurricane jumped up and down and flapped his arms. 
+Hurricane jumped up and down and flapped his arms.
 
 Ella shook her head again.
 
 Hurricane stopped jumping and flapping.
 
-“No?” he said. 
+“No?” he said.
 
 He scrunched up his face again.
 
@@ -255,19 +254,19 @@ He led Ella away.
 
 “Wait,” said the warbler. “Are you going to let us out too?”
 
-“Never fear, your hero will return,” said Hurricane. 
+“Never fear, your hero will return,” said Hurricane.
 
 He waved at the birds as he left.
 
 “Don’t worry! I’ll be back.”
 
-The robin watched them go. 
+The robin watched them go.
 
 He shook his head and settled back into the corner of his cage.
 
----- 
+----
 
-“I’m not sure I can remember,” said Ella. 
+“I’m not sure I can remember,” said Ella.
 
 The silent heart of the Tower loomed up beside them, and ahead glowed the light of the entrance.
 
@@ -277,12 +276,12 @@ The silent heart of the Tower loomed up beside them, and ahead glowed the light 
 
 “And even if you have forgotten,” said Hurricane, “I’ll eat my hat if you don’t remember by the end of the day.”
 
-“You don’t have a hat,” said Ella. 
+“You don’t have a hat,” said Ella.
 
 “Don’t worry,” said Hurricane. “I’ll get one.”
 
-“Oh dear,” said a voice. 
+“Oh dear,” said a voice.
 
-Ella and Hurricane stopped and stared. 
+Ella and Hurricane stopped and stared.
 
 “This is awkward,” said Wednesday. “Am I interrupting something?”
