@@ -5,7 +5,7 @@ chapterTitle: Chapter Seventeen
 chapterSubtitle: Ella’s Song
 prevChapter: /chapter-16/
 permalink: /chapter-17/
-nextChapter:
+nextChapter: /chapter-18/
 ---
 
 
