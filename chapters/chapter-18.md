@@ -119,11 +119,11 @@ Hurricane rolled his eyes. “Of course I do, but pretend I don’t. Is it like 
 
 Hurricane made a little fist and shook it in the air.
 
-“She would be sorry if she tried. If she eats mice then I’m against her. I will help you to vanquish this mouse-consuming, bird-napping, all-things-collecting raven. For all we know, she may be in cahoots with Dr. Temporal. Or The Tall Phantom.”
+“She would be sorry if she tried. If she eats mice then I’m against her. I will help you to vanquish this mouse-consuming, bird-napping, all-things-collecting raven. For all we know, she may be in cahoots with Doctor Temporal. Or The Tall Phantom.”
 
 “Who’s the Tall Phantom?”
 
-“Another of my many adversaries. I have several. There’s Dr. Temporal, The Tall Phantom, Professor Nightmares, and more. I’m an explorer of untamed, unmapped wildernesses like this Tower, and I’ve made a lot of enemies along the way.”
+“Another of my many adversaries. I have several. There’s Doctor Temporal, The Tall Phantom, Professor Nightmares, and more. I’m an explorer of untamed, unmapped wildernesses like this Tower, and I’ve made a lot of enemies along the way.”
 
 “This isn’t an untamed wilderness,” said the robin. “It’s a tower in a park.”
 
@@ -187,11 +187,11 @@ Hurricane scampered along the row of cages and stopped in front of Ella.
 
 Ella looked up at the mouse with sad eyes.
 
-“Huh,” said Hurricane. “Would you look at that...scarf. Lovely scarf.”
+“Huh,” said Hurricane. “Would you look at that—scarf. Lovely scarf.”
 
 Ella tugged halfheartedly at her scarf.
 
-“It’s a very blue scarf,” said Hurricane. “Anyway, have you seen a key?”
+“It’s a very blue scarf,” said Hurricane. “Have you seen a key?”
 
 Ella stared at the mouse for a moment. She pointed to where the key hung near the door.
 
