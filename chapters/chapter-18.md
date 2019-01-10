@@ -8,6 +8,7 @@ permalink: /chapter-18/
 nextChapter:
 ---
 
+
 Halfway up the outside of the Broken Clock Tower, a small mouse paused his climb to narrate the scene.
 
 “As our daredevil hero ascended,” he said, “a crowd of onlookers gathered below and gazed skyward with awe and admiration in their eyes. Up he went, paw over paw, with neither the benefit of harness nor safety net.”
