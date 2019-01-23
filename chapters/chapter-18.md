@@ -5,9 +5,8 @@ chapterTitle: Chapter Eighteen
 chapterSubtitle: A Mouse Called Hurricane
 prevChapter: /chapter-17/
 permalink: /chapter-18/
-nextChapter:
+nextChapter: /chapter-19/
 ---
-
 
 Halfway up the outside of the Broken Clock Tower, a small mouse paused his climb to narrate the scene.
 
@@ -43,7 +42,7 @@ Hurricane narrowed his own eyes and squinted up at the top of the Tower. He trie
 
 It also made it difficult to see, but such is the hero’s burden.
 
-----
+---- 
 
 When Hurricane reached the ledge, he pulled himself up and leapt into a crouch position.
 
@@ -265,7 +264,7 @@ The robin watched them go.
 
 He shook his head and settled back into the corner of his cage.
 
-----
+---- 
 
 “I’m not sure I can remember,” said Ella.
 
