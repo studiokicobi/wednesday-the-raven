@@ -52,17 +52,17 @@ Clack.
 
 “It’s not right,” said Ella.
 
-“And now you’re a part of them.” continued Wednesday. “What could be better?” 
+“And now you’re a part of them.” continued Wednesday. “What could be better?”
 
 She hopped over Ella and landed behind her. Ella spun to meet the raven.
 
 “I know it’s difficult,” said Wednesday. “But we all have to make sacrifices.”
 
-She raised one of her big black wings. 
+She raised one of her big black wings.
 
 “You’ll understand when you’re older,” she said. Then she swung and struck Ella down with a heavy blow.
 
-Ella skittered across the floor. She tasted blood and dust, and her eyes filled with stars. As they twinkled away, she found she had landed closer to the exit. The opening glowed with hot white light. 
+Ella skittered across the floor. She tasted blood and dust, and her eyes filled with stars. As they twinkled away, she found she had landed closer to the exit. The opening glowed with hot white light.
 
 Ella tried to push herself to her feet. A long pain shot up one side of her body. The other side had gone numb.
 
@@ -70,11 +70,11 @@ On the opposite end of the room, a small rodent with very curly blond hair and d
 
 “Our hero stepped boldly out from the shadows, completely unrecognizable in his disguise,” said Hurricane. “The element of surprise was on his side.”
 
-He dumped the objects on the floor, grabbed a shiny tube of lipstick, leaned back and sent the tube hurtling over Wednesday’s head. The tube bounced lightly off the raven’s back and fell harmlessly to the floor. 
+He dumped the objects on the floor, grabbed a shiny tube of lipstick, leaned back and sent the tube hurtling over Wednesday’s head. The tube bounced lightly off the raven’s back and fell harmlessly to the floor.
 
 “And so it begins!” shouted the mouse.
 
-The lipstick rolled past Ella and continued until it vanished over the edge of the Tower. 
+The lipstick rolled past Ella and continued until it vanished over the edge of the Tower.
 
 Wednesday turned and stared at the mouse with a puzzled expression.
 
@@ -82,7 +82,7 @@ Next, a wristwatch armband spun past the raven, followed by a blue bottle cap. W
 
 His arsenal exhausted, Hurricane picked up a long metal nail and ran forward to the raven.
 
-“Hah!” he cried, and struck her several times on her hard, scaly claws. 
+“Hah!” he cried, and struck her several times on her hard, scaly claws.
 
 Wednesday looked down at him.
 
@@ -102,15 +102,15 @@ Maybe, she thought. If I can stand, I can make it to the exit. This is not impos
 
 Hurricane paused, drew himself up and puffed out his little chest. He straightened his wig.
 
-“Yes, actually,” he said. “My mother always said they broke the mould after they made me.”
+“Yes, actually,” he said. “My mother always said they broke the mold after they made me.”
 
-“Fascinating,” said Wednesday. 
+“Fascinating,” said Wednesday.
 
-“I’ll have you know I’m not an ordinary mouse,” continued Hurricane. “I’m a fearless adventurer, a crusader for justice, and, in general, an all-around hero.” 
+“I’ll have you know I’m not an ordinary mouse,” continued Hurricane. “I’m a fearless adventurer, a crusader for justice, and, in general, an all-around hero.”
 
 “I had no idea rodents were so interesting,” said Wednesday. “Maybe I will begin collecting them. If I do, I think I should make you my first specimen.”
 
-“Oh,” said Hurricane. “I’m honored.” 
+“Oh,” said Hurricane. “I’m honored.”
 
 He bowed.
 
@@ -124,9 +124,9 @@ Wednesday turned and walked calmly toward the sparrow. Ella began to move as qui
 
 “Little blue-eyed sparrow,” said Wednesday in her low, hypnotic voice. “If only you could fly.”
 
-“You could teach me,” said Ella. 
+“You could teach me,” said Ella.
 
-“Maybe tomorrow,” said Wednesday. 
+“Maybe tomorrow,” said Wednesday.
 
 Ella kept moving. Wednesday followed behind her, step by step.
 
@@ -138,9 +138,9 @@ Click.
 
 Clack.
 
-“You do realize there’s nowhere to go,” said Wednesday. 
+“You do realize there’s nowhere to go,” said Wednesday.
 
-Together they moved out onto the Tower ledge, and a few steps later Ella looked down and saw she had reached the edge. 
+Together they moved out onto the Tower ledge, and a few steps later Ella looked down and saw she had reached the edge.
 
 “That’s far enough,” said Wednesday. She motioned toward the cages. “Come back,” she said. “You know it’s safer inside.”
 
@@ -152,13 +152,13 @@ Together they moved out onto the Tower ledge, and a few steps later Ella looked 
 
 “Oh, Ella,” said Wednesday. “You know that’s not true.”
 
-The raven leaned forward. 
+The raven leaned forward.
 
-“I can take everything away from you,” she whispered. 
+“I can take everything away from you,” she whispered.
 
 Ella looked up at Wednesday, and at the two tiny sparrows reflected in her big black eyes. The sparrows blinked and looked from side to side. They shook their heads.
 
-We’re lost, they said. 
+We’re lost, they said.
 
 “And even if you could remember,” said Wednesday, “you don’t remember now, do you?”
 
@@ -176,7 +176,7 @@ Ella looked into the raven’s deep black eyes. The two little sparrow reflectio
 
 “What?” said Wednesday.
 
-Ella glanced over the edge. 
+Ella glanced over the edge.
 
 “I’ll have to remember on the way down,” she said.
 
@@ -184,6 +184,6 @@ She leapt backward into the air.
 
 Wednesday’s face flashed first with surprise, and then anger. She lunged and opened her heavy bill and snapped at the sparrow, and Ella threw open her wings and stretched back as far as she could and thought: I think she’s going to miss.
 
-The raven did miss. 
+The raven did miss.
 
 But before Ella had time to twist and face forward and meet the air and try to remember how to fly, the raven recoiled and struck again, and this time, although she did not succeed in capturing Ella, she did not miss. Her beak plunged into Ella’s chest, and Ella’s eyes grew wide and still. Her wings went limp, and she let out a very small gasp, and the bright blue sky grew dim and gray as she fell helplessly from the Tower.
