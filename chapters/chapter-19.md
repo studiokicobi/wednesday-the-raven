@@ -5,7 +5,7 @@ chapterTitle: Chapter Nineteen
 chapterSubtitle: Falling
 prevChapter: /chapter-18/
 permalink: /chapter-19/
-nextChapter:
+nextChapter: /chapter-20/
 ---
 
 As Ella looked at the raven, the key slowly slipped from her grasp and fell to the floor. She shivered in the breeze.
