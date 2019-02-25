@@ -2,7 +2,7 @@
 layout: chapter
 title: Wednesday the Raven
 chapterTitle: Chapter Twenty-one
-chapterSubtitle: Falling
+chapterSubtitle: The Fall
 prevChapter: /chapter-20/
 permalink: /chapter-21/
 nextChapter: /chapter-22/
