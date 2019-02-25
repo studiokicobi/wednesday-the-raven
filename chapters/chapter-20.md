@@ -5,7 +5,7 @@ chapterTitle: Chapter Twenty
 chapterSubtitle: Improbable Events
 prevChapter: /chapter-19/
 permalink: /chapter-20/
-nextChapter:
+nextChapter: /chapter-21/
 ---
 
 Edward sat on the ground and leaned back against the Tower and touched the lump on his forehead. He wondered again if he would ever find the ring. He also wondered if a person required special medical attention after being hit on the head by an earring.
