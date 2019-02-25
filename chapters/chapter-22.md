@@ -5,7 +5,7 @@ chapterTitle: Chapter Twenty-two
 chapterSubtitle: If Not Now
 prevChapter: /chapter-21/
 permalink: /chapter-22/
-nextChapter: /chapter-3
+nextChapter: /chapter-23/
 ---
 
 Edward bent down and picked up the tube of lipstick.
@@ -46,7 +46,7 @@ Maybe I am a man of action, thought Edward.
 
 ----
 
-The young apprentice’s bag weighed more than usual as he walked slowly away from the Tower. It felt difficult not to drag it on the ground. As he thought about the tools he would never use and the Clock Makers Guild card he could never earn, he wondered if he shouldn’t throw the bag in the Pond and be rid of it once and for all.
+The young apprentice’s bag weighed more than usual as he walked slowly away from the Tower. It felt difficult not to drag across the ground. As he thought about the tools he would never use and the Clock Makers Guild card he could never earn, he wondered if he shouldn’t throw the bag in the Pond and be rid of it once and for all.
 
 And then run away, he thought. And change my name.
 
