@@ -5,7 +5,7 @@ chapterTitle: Chapter Twenty-three
 chapterSubtitle: The Prisoner
 prevChapter: /chapter-22/
 permalink: /chapter-23/
-nextChapter:
+nextChapter: /chapter-24/
 ---
 
 Detective Weisell stared out the window of the Police Chief’s office.
