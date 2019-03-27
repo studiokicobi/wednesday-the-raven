@@ -5,7 +5,7 @@ chapterTitle: Chapter Twenty-four
 chapterSubtitle: The Pawn
 prevChapter: /chapter-23/
 permalink: /chapter-24/
-nextChapter:
+nextChapter: /chapter-25/
 ---
 
 Detective Weisell paced his office. He walked back and forth from the desk to the door and opened the window and looked all around and pulled in his head and let the window drop with a bang.
