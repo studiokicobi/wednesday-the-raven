@@ -218,7 +218,7 @@ A small noise came from behind him.
 
 “Aha!” he said. “Too late, our hero realized he had walked into a trap. He turned to escape.”
 
-Hurricane turned to escape and saw Wednesday standing before him. She held the blue-covered book high above him.
+Hurricane turned to escape and saw Wednesday. She held the blue-covered book high above him.
 
 “Excellent,” said Hurricane. “We meet again, foul villain. I’m here to tell you your evil scheme will never work. Tell Dr. Temporal the jig is up.”
 
