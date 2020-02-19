@@ -162,11 +162,11 @@ She hoped he wouldn’t make too much noise.
 
 Hurricane crept through the collections and talked to himself.
 
-“When last we saw him,” he said, “our hero crept silently into the Tower on a deadly mission—a mission to challenge death itself...”
+“When last we saw him,” he said, “our hero crept silently into the Tower on a deadly mission—a mission to challenge death itself…”
 
 Hurricane paused and searched for the right word. When he couldn’t find it, he moved on.
 
-“... to challenge death itself in a contest to the death,” he continued. “Although, given his advanced and sneaky skills, it was highly unlikely that death would notice our hero as he slipped between the shadows.”
+“…to challenge death itself in a contest to the death,” he continued. “Although, given his advanced and sneaky skills, it was highly unlikely that death would notice our hero as he slipped between the shadows.”
 
 Hurricane looked around. He had arrived in the Timekeeping section.
 
