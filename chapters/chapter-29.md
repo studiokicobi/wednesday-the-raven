@@ -99,7 +99,6 @@ Now, he thought, was not the right time to squint.
 There were two options. He could either ride the book down through the air like a surfboard, or he could hold it above him and parachute to safety. Both options, he noted, contained the same two disadvantages:
 
 1. Possible failure
-
 2. Possible death
 
 What would a hero do? he wondered.
